@@ -7,14 +7,12 @@ import { getCollection } from "astro:content";
 
 const entries = await getCollection("demos");
 
-console.log(entries);
-
 const items = entries
   //.filter((e) => !e.id.match(/./))
-	.map((e) => ({
-		href: `/demos/${e.data.title}/index.html`,
-		title: e.data.title,
-	}));
+  .map((e) => ({
+    href: `/demos/${e.data.title}/index.html`,
+    title: e.data.title,
+  }));
 ---
 
 <CommonLayout title="svgmapviewer">
