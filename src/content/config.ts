@@ -4,6 +4,7 @@ const demoCollection = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
+    mapId: z.string(),
     pubDate: z.date(),
   }),
 });

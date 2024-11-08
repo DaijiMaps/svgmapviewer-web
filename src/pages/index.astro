@@ -7,10 +7,12 @@ import { getCollection } from "astro:content";
 
 const entries = await getCollection("demos");
 
+console.log(entries);
+
 const items = entries
   //.filter((e) => !e.id.match(/./))
   .map((e) => ({
-    href: `/demos/${e.data.title}/index.html`,
+    href: `/demos/${e.data.mapId}/index.html`,
     title: e.data.title,
   }));
 ---

@@ -1,8 +1,7 @@
-grep -hr title src/content/demos |
-while read a title; do
-  mkdir -p public/demos/${title}
-  pushd ../svgmapviewer-demos/packages/demos/${title}
-  pnpx vite build --base /demos/${title}
+( cd public/demos; ls -1 ) |
+while read mapId; do
+  pushd ../svgmapviewer-demos/packages/demos/${mapId}
+  pnpx vite build --base /demos/${mapId}
   popd
-  rsync -avz --delete ../svgmapviewer-demos/packages/demos/${title}/dist/ ./public/demos/${title}/
+  rsync -avz --delete ../svgmapviewer-demos/packages/demos/${mapId}/dist/ ./public/demos/${mapId}/
 done
