@@ -1,0 +1,13 @@
+---
+const { items } = Astro.props;
+---
+
+<ul>
+  {
+    items.map(({ href, title }: { href: string; title: string }) => (
+      <li>
+        <a href={href}>{title}</a>
+      </li>
+    ))
+  }
+</ul>

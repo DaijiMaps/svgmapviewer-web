@@ -1,0 +1,13 @@
+---
+const { items } = Astro.props;
+---
+
+<ul class="flex flex-row flex-wrap list-none">
+  {
+    items.map(({ href, title }: { href: string; title: string }) => (
+      <li class="border px-4 py-2 m-0">
+        <a href={href}>{title}</a>
+      </li>
+    ))
+  }
+</ul>

@@ -1,0 +1,39 @@
+---
+const url = new URL(Astro.request.url);
+const paths = url.pathname.split("/").filter((x) => x);
+const { home } = Astro.props;
+
+let parts = [
+  {
+    text: home,
+    href: "/",
+  },
+];
+
+paths.forEach((text: string, i) => {
+  const href = `/${paths.slice(0, i + 1).join("/")}`;
+  parts.push({
+    text,
+    href,
+  });
+});
+---
+
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol class="breadcrumbs flex flex-row" role="list">
+    {
+      parts.map(({ text, ...attrs }) => (
+        <li class="breadcrumb m-0" role="listitem">
+          <a {...attrs}>{text}</a>
+        </li>
+      ))
+    }
+  </ol>
+</nav>
+
+<style>
+  .breadcrumb > ol > li:not(:first-child):before {
+    content: "/";
+    padding: 0 0 0 0.25em;
+  }
+</style>

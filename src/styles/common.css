@@ -15,6 +15,12 @@
     margin: auto;
     width: 50vmin;
   }
+  ul {
+    @apply text-4xl my-5 list-none;
+  }
+  li {
+    @apply text-center p-4 border-solid border-black border;
+  }
 }
 
 @tailwind components;
