@@ -9,14 +9,14 @@
     @apply my-10;
   }
   h1 {
-    @apply text-center text-6xl my-10;
+    @apply text-center text-5xl my-10;
   }
   img.logo {
     margin: auto;
     width: 50vmin;
   }
   ul {
-    @apply text-4xl my-5 list-none;
+    @apply text-3xl my-5 list-none;
   }
   li {
     @apply text-center p-4 border-solid border-black border;
