@@ -1,0 +1,9 @@
+---
+import CommonLayout from "../layouts/common.astro";
+import logo from "../images/logo.svg";
+import { Image } from "astro:assets";
+---
+
+<CommonLayout title="svgmapviewer">
+  <Image src={logo} class="logo" alt="logo" />
+</CommonLayout>

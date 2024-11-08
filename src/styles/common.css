@@ -1,0 +1,22 @@
+@tailwind base;
+
+@layer base {
+  body {
+    background-color: wheat;
+    @apply p-10;
+  }
+  article {
+    @apply my-10;
+  }
+  h1 {
+    @apply text-center text-6xl my-10;
+  }
+  img.logo {
+    margin: auto;
+    width: 50vmin;
+  }
+}
+
+@tailwind components;
+
+@tailwind utilities;

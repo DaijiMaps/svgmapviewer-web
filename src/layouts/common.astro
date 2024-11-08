@@ -1,0 +1,19 @@
+---
+import "../styles/common.css";
+
+const props = Astro.props;
+---
+
+<html lang="ja">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{props.title}</title>
+	</head>
+	<body>
+		<h1>{props.title}</h1>
+		<article>
+			<slot/>
+		</article>
+	</body>
+</html>

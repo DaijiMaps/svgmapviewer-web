@@ -1,0 +1,12 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "allowJs": true,
+    "strictNullChecks": true,
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      }
+    ]
+  }
+}
