@@ -6,7 +6,7 @@ const { items } = Astro.props;
   {
     items.map(({ href, title }: { href: string; title: string }) => (
       <li>
-        <a href={href}>{title}</a>
+        <a href={href} target="_blank">{title}</a>
       </li>
     ))
   }
