@@ -16,14 +16,14 @@
     width: 50vmin;
   }
   ul {
-    @apply text-3xl my-5 list-none;
+    @apply text-2xl my-5 list-none;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
   }
   li {
-    @apply text-center p-4 border-solid border-black border;
+    @apply text-center p-3 border-solid border-black border;
   }
 }
 
