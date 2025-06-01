@@ -11,9 +11,14 @@ const props = Astro.props;
     <title>{props.title}</title>
   </head>
   <body>
-    <h1>{props.title}</h1>
+    <div class="header">
+      <h1>{props.title}</h1>
+    </div>
     <article>
-      <slot/>
+      <slot />
     </article>
+    <div class="footer">
+      <p>&copy; Daiji Maps</p>
+    </div>
   </body>
 </html>
