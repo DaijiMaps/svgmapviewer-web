@@ -407,7 +407,7 @@ a ${o3/2},${o3/2} 0,1,0 0,${o3}
   will-change: opacity;
 }`}):g.jsx(g.Fragment,{children:".shadow { display: none; }"})}function G7(){return g.jsx("div",{id:"ui-root",children:g.jsxs("div",{id:"ui",children:[g.jsx(tg,{}),g.jsx(Gp,{}),g.jsx(Hp,{}),g.jsx(Ip,{}),g.jsx(Qp,{}),g.jsx(Wp,{})]})})}function ig(){return g.jsxs(g.Fragment,{children:[g.jsx(fp,{}),g.jsx(G7,{})]})}var og=ig;function sg(){return f_()}const d5=Tl.createContext(cl);function yg(n){const r=document.getElementById(n.root);if(r===null)throw new Error("#root not found!");r.onwheel=function(u){const o=r.children[0];o!==null&&o.clientWidth===o.scrollWidth&&u.preventDefault()},r.oncontextmenu=function(u){u.preventDefault()},r.ontouchmove=function(u){j4&&u.preventDefault()},document.body.onkeydown=tp,document.body.onkeyup=up,P4.createRoot(r).render(g.jsxs(Tl.StrictMode,{children:[g.jsx(d5.Provider,{value:n,children:g.jsx(og,{})}),g.jsx("svg",{children:g.jsx("defs",{children:g.jsx(sg,{})})})]}))}function dg(){const n=document.getElementById("style-root");if(n===null)throw new Error("#style-root not found!");P4.createRoot(n).render(g.jsxs(Tl.StrictMode,{children:[g.jsx(mg,{}),g.jsx(_g,{})]}))}function mg(){return g.jsxs("style",{children:[g.jsx(cg,{}),g.jsx(hg,{}),g.jsx(wg,{}),g.jsx(fg,{}),g.jsx(bg,{}),g.jsx(vg,{})]})}function _g(){return g.jsx("svg",{children:g.jsx("defs",{children:g.jsx(Fg,{})})})}function cg(){const n=sc(),r=yc(),{svg:u,svgScale:o,scroll:y}=S4(),d=dc(),_=y5(d.toString());return Tl.useEffect(()=>{requestAnimationFrame(()=>le({type:"RENDERED"}))},[n]),g.jsx(g.Fragment,{children:`
 /* layout */
-.container { display: ${n?"initial":"none"}; }
+.container, #ui { display: ${n?"initial":"none"}; }
 ${r?gg:pg}
 .container > .content {
   width: ${y.width}px;
@@ -421,13 +421,13 @@ ${r?gg:pg}
   --svg-scale: ${o.s};
 }
 `})}const pg=`
-.container {
+.container, #ui {
   animation: none;
 }
 @keyframes container-appearing {
 }
 `,gg=`
-.container {
+.container, #ui {
   will-change: opacity;
   animation: container-appearing 1000ms ease;
 }
