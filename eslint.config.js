@@ -1,4 +1,6 @@
 import eslintPluginAstro from "eslint-plugin-astro";
+import unocss from "@unocss/eslint-config/flat";
+import prettier from "eslint-config-prettier/flat/recommended"
 
 export default [
   // add more generic rule sets here, such as:
@@ -10,4 +12,6 @@ export default [
       // "astro/no-set-html-directive": "error"
     },
   },
-];
+  unocss,
+  prettier,
+]
