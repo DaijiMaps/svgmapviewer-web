@@ -14,7 +14,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.3.0",
     "@astrojs/ts-plugin": "^1.10.4",
-    "astro": "^5.9.2",
+    "astro": "^5.9.3",
     "rehype-external-links": "^3.0.0",
     "rehype-raw": "^7.0.0",
     "title": "^4.0.1",
@@ -33,6 +33,6 @@
     "prettier-plugin-astro": "^0.14.1",
     "sharp": "^0.34.2",
     "unocss": "^66.2.0",
-    "wrangler": "^4.19.2"
+    "wrangler": "^4.20.0"
   }
 }
