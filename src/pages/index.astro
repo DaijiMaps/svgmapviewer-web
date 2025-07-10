@@ -9,6 +9,7 @@ const entries = await getCollection("demos");
 
 const items = entries
   //.filter((e) => !e.id.match(/./))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title))
   .map((e) => ({
     href: `/demos/${e.data.mapId}/index.html`,
     title: e.data.title,
