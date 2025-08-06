@@ -21,7 +21,7 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^8.38.0",
+    "@typescript-eslint/parser": "^8.39.0",
     "@unocss/eslint-config": "^66.4.1",
     "@unocss/postcss": "^66.4.1",
     "@unocss/reset": "^66.4.1",
@@ -33,7 +33,7 @@
     "prettier-plugin-astro": "^0.14.1",
     "sharp": "^0.34.3",
     "unocss": "^66.4.1",
-    "wrangler": "^4.27.0"
+    "wrangler": "^4.28.0"
   },
   "pnpm": {
     "updateConfig": {
