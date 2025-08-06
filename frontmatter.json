@@ -8,6 +8,10 @@
     {
       "title": "demos",
       "path": "[[workspace]]/src/content/demos"
+    },
+    {
+      "title": "floormaps",
+      "path": "[[workspace]]/src/content/floormaps"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [

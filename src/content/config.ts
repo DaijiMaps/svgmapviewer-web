@@ -9,6 +9,16 @@ const demoCollection = defineCollection({
   }),
 });
 
+const floormapCollection = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    mapId: z.string(),
+    pubDate: z.date(),
+  }),
+});
+
 export const collections = {
   demos: demoCollection,
+  floormaps: floormapCollection,
 };

@@ -1,0 +1,25 @@
+---
+import CommonLayout from "../layouts/common.astro";
+import Items from "../components/Items.astro";
+import logo from "../images/logo.svg";
+import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
+
+const entries = await getCollection("floormaps");
+
+console.log(entries)
+
+const items = entries
+  //.filter((e) => !e.id.match(/./))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  .map((e) => ({
+    // XXX demos -> floormaps
+    href: `/demos/${e.data.mapId}/index.html`,
+    title: e.data.title,
+  }));
+---
+
+<CommonLayout title="svgmapviewer">
+  <Image src={logo} class="logo" alt="logo" />
+  <Items items={items} />
+</CommonLayout>
