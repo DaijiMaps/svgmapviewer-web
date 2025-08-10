@@ -2,7 +2,7 @@
 import "../styles/floormaps.css";
 import CommonLayout from "../layouts/common.astro";
 import Items from "../components/Items.astro";
-import logo from "../images/logo.svg";
+import Logo from "../components/Logo.astro";
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
 
@@ -21,6 +21,6 @@ const items = entries
 ---
 
 <CommonLayout title="svgmapviewer">
-  <Image src={logo} class="logo" alt="logo" />
+  <Logo />
   <Items items={items} />
 </CommonLayout>
