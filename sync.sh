@@ -10,6 +10,7 @@ echo mapIds: $args
 for mapId in $args; do
   pushd ../svgmapviewer-demos/packages/demos/${mapId}
   #pnpx vite build --base '' $vite_build_args
+  pnpm install
   pnpm build
   popd
   mkdir -p ./public/demos/${mapId}
