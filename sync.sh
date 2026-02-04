@@ -1,3 +1,8 @@
+demos_dirs='
+../svgmapviewer-demos/packages/demos
+../svgmapviewer.worktrees/demos/packages/demos
+'
+
 args="$@"
 if [ -z "${args}" ]; then
   #args=$( cd public/demos; ls -1 )
@@ -8,11 +13,24 @@ echo mapIds: $args
 #vite_build_args='--mode development'
 
 for mapId in $args; do
-  pushd ../svgmapviewer-demos/packages/demos/${mapId}
+  mapdir=
+  for dir in $demos_dirs; do
+    d="$dir/$mapId"
+    if [ -d "$d" ]; then
+      mapdir="$d"
+      break
+    fi
+  done
+  if [ "$mapdir" = "" ]; then
+    echo >&2 "map ID ($mapId) not found!"
+    continue
+  fi
+
+  pushd "$mapdir"
   #pnpx vite build --base '' $vite_build_args
   pnpm install
   pnpm build
   popd
   mkdir -p ./public/demos/${mapId}
-  rsync -avz --delete ../svgmapviewer-demos/packages/demos/${mapId}/dist/ ./public/demos/${mapId}/
+  rsync -avz --delete ${mapdir}/dist/ ./public/demos/${mapId}/
 done
