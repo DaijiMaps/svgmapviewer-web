@@ -1,6 +1,6 @@
 demos_dirs='
-../svgmapviewer-demos/packages/demos
 ../svgmapviewer.worktrees/demos/packages/demos
+../svgmapviewer-demos/packages/demos
 '
 
 args="$@"
@@ -29,7 +29,7 @@ for mapId in $args; do
   pushd "$mapdir"
   #pnpx vite build --base '' $vite_build_args
   pnpm install
-  pnpm build
+  env SERVER_BASE=/demos/"$mapId" pnpm build
   popd
   mkdir -p ./public/demos/${mapId}
   rsync -avz --delete ${mapdir}/dist/ ./public/demos/${mapId}/
