@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="21.960417"
-     inkscape:cx="26.456693"
+     inkscape:cx="27.504032"
      inkscape:cy="26.456693"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
@@ -59,7 +59,7 @@
      style="display:inline">
     <g
        id="g18"
-       inkscape:label="1"
+       inkscape:label="Outer"
        style="display:inline">
       <g
          id="g24"
@@ -111,14 +111,14 @@
            sodipodi:ry="1.4999999"
            sodipodi:start="1.5707964"
            sodipodi:end="4.7123889"
-           d="M 9.5,13.5 A 4,1.5 0 0 1 5.5,12 4,1.5 0 0 1 9.5,10.5"
+           d="M 9.5,13.5 A 3.9999998,1.4999999 0 0 1 5.5000002,12 3.9999998,1.4999999 0 0 1 9.5,10.5"
            sodipodi:open="true"
            inkscape:label="2" />
       </g>
     </g>
     <g
        id="g20"
-       inkscape:label="2"
+       inkscape:label="Inner"
        style="display:inline">
       <g
          id="g13"
