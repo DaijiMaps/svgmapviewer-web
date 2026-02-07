@@ -58,7 +58,7 @@
      transform="translate(-5,-5)"
      style="display:inline">
     <g
-       id="g18"
+       id="Outer"
        inkscape:label="Outer"
        style="display:inline">
       <g
@@ -117,7 +117,7 @@
       </g>
     </g>
     <g
-       id="g20"
+       id="Inner"
        inkscape:label="Inner"
        style="display:inline">
       <g
