@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
-   sodipodi:docname="logo-new-s.inkscape.svg"
+   sodipodi:docname="logo-clipped.inkscape.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="21.960417"
-     inkscape:cx="26.320083"
-     inkscape:cy="28.004933"
+     inkscape:cx="26.433925"
+     inkscape:cy="25.272745"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g17"
+     inkscape:current-layer="layer1"
      showguides="true">
     <inkscape:grid
        id="grid1"
@@ -50,7 +50,26 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21">
+      <path
+         style="display:inline;opacity:0.5;fill:#0000ff;stroke-width:10;stroke-linejoin:round"
+         d="m 11,13.75 h 2.5 V 13.4 l -1.5,-1 h -1 z"
+         id="path22"
+         sodipodi:nodetypes="cccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22">
+      <path
+         style="display:inline;opacity:0.5;fill:#0000ff;stroke-width:10;stroke-linejoin:round"
+         d="m 13,10.25 h -2.5 v 0.35 l 1.5,1 h 1 z"
+         id="path23"
+         sodipodi:nodetypes="cccccc" />
+    </clipPath>
+  </defs>
   <g
      inkscape:label="SMV"
      inkscape:groupmode="layer"
@@ -101,7 +120,7 @@
            sodipodi:ry="1.4999999"
            sodipodi:start="1.5707964"
            sodipodi:end="4.7123889"
-           d="M 9.5,13.5 A 4,1.5 0 0 1 5.5,12 4,1.5 0 0 1 9.5,10.5"
+           d="M 9.5,13.5 A 3.9999998,1.4999999 0 0 1 5.5000002,12 3.9999998,1.4999999 0 0 1 9.5,10.5"
            sodipodi:open="true"
            inkscape:label="2" />
       </g>
@@ -111,40 +130,36 @@
        inkscape:label="Inner"
        style="display:inline">
       <g
-         id="g13"
+         id="g16"
          inkscape:label="1"
          style="display:inline">
+        <path
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;enable-background:accumulate;stop-color:#000000"
+           d="M 8.5,8.5 V 14 l 2.35,1.5 h 2.3 L 15.5,14 V 8.5 H 12.85 L 12,9 11.15,8.5 Z m 1,1 h 5 v 4 l -1.65,1 h -1.7 l -1.65,-1 z"
+           id="path18"
+           sodipodi:nodetypes="ccccccccccccccccc"
+           inkscape:label="1" />
+        <path
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           d="m 9,10.4 v 1.1 l 3,2 0.3,-0.9 z"
+           id="path7"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="2" />
+        <path
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           d="m 12,10.5 -0.3,0.9 3.3,2.2 v -1.1 z"
+           id="path8"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="3" />
+      </g>
+      <g
+         id="g15"
+         style="display:inline"
+         inkscape:label="2">
         <g
-           id="g16"
+           id="g19"
            inkscape:label="1"
            style="display:inline">
-          <path
-             style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:1"
-             d="M 15,13.75 13,15 H 11 L 9,13.75 V 9 h 2 L 12,9.5 13,9 h 2 z"
-             id="path6"
-             sodipodi:nodetypes="cccccccccc"
-             inkscape:label="1" />
-        </g>
-        <g
-           id="g15"
-           style="display:inline"
-           inkscape:label="2">
-          <ellipse
-             style="fill:#000000"
-             id="path3"
-             cx="12"
-             cy="13.25"
-             rx="1"
-             ry="0.75"
-             inkscape:label="1" />
-          <ellipse
-             style="fill:#000000"
-             id="path4"
-             cx="12"
-             cy="10.75"
-             rx="1"
-             ry="0.75"
-             inkscape:label="2" />
           <ellipse
              style="fill:#000000"
              id="ellipse13"
@@ -152,7 +167,7 @@
              cy="9.25"
              rx="1"
              ry="0.75"
-             inkscape:label="3" />
+             inkscape:label="1" />
           <ellipse
              style="fill:#000000"
              id="ellipse14"
@@ -160,7 +175,7 @@
              cy="9.25"
              rx="1"
              ry="0.75"
-             inkscape:label="4" />
+             inkscape:label="2" />
           <ellipse
              style="fill:#000000"
              id="ellipse15"
@@ -168,7 +183,7 @@
              cy="12"
              rx="1"
              ry="0.75"
-             inkscape:label="5" />
+             inkscape:label="3" />
           <ellipse
              style="fill:#000000"
              id="ellipse16"
@@ -176,55 +191,30 @@
              cy="12"
              rx="1"
              ry="0.75"
-             inkscape:label="6" />
+             inkscape:label="4" />
         </g>
         <g
-           id="g19"
-           inkscape:label="3"
-           style="display:inline">
-          <path
-             style="fill:none;stroke:#000000;stroke-width:1"
-             d="m 9,11 3,2"
-             id="path7"
-             inkscape:label="1" />
-          <path
-             style="display:inline;fill:none;stroke:#000000;stroke-width:1"
-             d="m 12,11 3,2"
-             id="path8"
-             inkscape:label="2" />
-        </g>
-      </g>
-      <g
-         id="g14"
-         style="display:inline"
-         inkscape:label="2">
-        <g
-           id="g26"
-           inkscape:label="1"
-           style="display:inline">
-          <path
-             style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffff00;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
-             d="m 10,10.25 -0.5,0.5 4.5,3 0.5,-0.5 z"
-             id="path12"
-             sodipodi:nodetypes="ccccc"
-             inkscape:label="1" />
-        </g>
-        <g
-           id="g17"
+           id="g18"
            inkscape:label="2"
            style="display:inline">
-          <path
-             style="fill:none;stroke:#ffff00;stroke-width:0.75"
-             d="m 10.75,9.875 h 2.5"
-             id="path11"
-             sodipodi:nodetypes="cc"
-             inkscape:label="1" />
-          <path
-             style="fill:none;stroke:#ffff00;stroke-width:0.75"
-             d="m 11.15,14.125 h 1.7"
-             id="path14"
-             sodipodi:nodetypes="cc"
-             inkscape:label="2" />
+          <ellipse
+             style="display:inline;fill:#000000"
+             id="path3"
+             cx="12"
+             cy="13.25"
+             rx="1"
+             ry="0.75"
+             inkscape:label="1"
+             clip-path="url(#clipPath21)" />
+          <ellipse
+             style="display:inline;fill:#000000"
+             id="path4"
+             cx="12"
+             cy="10.75"
+             rx="1"
+             ry="0.75"
+             inkscape:label="2"
+             clip-path="url(#clipPath22)" />
         </g>
       </g>
     </g>
