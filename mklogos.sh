@@ -15,8 +15,8 @@ for name in logo-normal logo-small; do
     perl -0777 -pi -le '
 s,display:inline[;]?,,gmos;
 s, style="",,gmos;
-s, width="14mm",,gmos;
-s, height="14mm",,gmos;
+s, width="\d[\d\.]*mm",,gmos;
+s, height="\d[\d\.]*mm",,gmos;
 ' $f
     svgo $f
   done

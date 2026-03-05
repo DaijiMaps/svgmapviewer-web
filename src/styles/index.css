@@ -1,3 +1,35 @@
 body {
-  background-color: khaki;
+  --fg: white;
+  --bg: #404040;
+
+  color: var(--fg);
+  background-color: var(--bg);
+}
+
+.header, .footer {
+  height: 23vh;
+  margin: 1vh 0;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  align-items: start;
+  h1 {
+    font-size: 5vmin;
+  }
+}
+.footer {
+  align-items: end;
+}
+
+article {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .logo {
+    width: 50vmin;
+    
+  }
 }

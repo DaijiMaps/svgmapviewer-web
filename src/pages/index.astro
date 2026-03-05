@@ -1,22 +1,24 @@
 ---
-import "../styles/index.css";
-import CommonLayout from "../layouts/common.astro";
-import Items from "../components/Items.astro";
 import Logo from "../components/Logo.astro";
-import { getCollection } from "astro:content";
+import "../styles/index.css";
 
-const entries = await getCollection("demos");
-
-const items = entries
-  //.filter((e) => !e.id.match(/./))
-  .sort((a, b) => a.data.title.localeCompare(b.data.title))
-  .map((e) => ({
-    href: `/demos/${e.data.mapId}/index.html`,
-    title: e.data.title,
-  }));
 ---
 
-<CommonLayout title="svgmapviewer">
-  <Logo />
-  <Items items={items} />
-</CommonLayout>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>svgmapviewer</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>svgmapviewer</h1>
+    </div>
+    <article>
+      <Logo />
+    </article>
+    <div class="footer">
+      <p>&copy; Daiji Maps</p>
+    </div>
+  </body>
+</html>

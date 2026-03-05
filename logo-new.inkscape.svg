@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="10.980208"
-     inkscape:cx="26.456693"
-     inkscape:cy="26.411156"
+     inkscape:cx="26.411157"
+     inkscape:cy="12.568068"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
      inkscape:window-x="0"
@@ -71,7 +71,7 @@
     </clipPath>
   </defs>
   <g
-     inkscape:label="SMV"
+     inkscape:label="(Common)"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
@@ -133,19 +133,19 @@
          inkscape:label="1"
          style="display:inline">
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;enable-background:accumulate;stop-color:#000000"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;enable-background:accumulate;fill:#000000"
            d="m 3.5,3 v 6 l 2.65,2.5 h 1.7 L 10.5,9 V 3 H 7.85 L 7,3.5 6.15,3 Z m 1,1.5 h 5 v 4 l -1.65,1 H 6.15 L 4.5,8.5 Z"
            id="path18"
            sodipodi:nodetypes="ccccccccccccccccc"
            inkscape:label="1" />
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;fill:#000000"
            d="m 4,5.4 v 1.1 l 3,2 0.3,-0.9 z"
            id="path7"
            sodipodi:nodetypes="ccccc"
            inkscape:label="2" />
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;fill:#000000"
            d="M 7,5.5 6.7,6.4 10,8.6 V 7.5 Z"
            id="path8"
            sodipodi:nodetypes="ccccc"
@@ -218,4 +218,28 @@
       </g>
     </g>
   </g>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="Normal" />
+  <g
+     id="g2"
+     inkscape:groupmode="layer"
+     inkscape:label="Normal (Inv)" />
+  <g
+     id="g3"
+     inkscape:groupmode="layer"
+     inkscape:label="Small" />
+  <g
+     id="g4"
+     inkscape:groupmode="layer"
+     inkscape:label="Small (Inv)" />
+  <g
+     id="g5"
+     inkscape:groupmode="layer"
+     inkscape:label="Mono" />
+  <g
+     id="g6"
+     inkscape:groupmode="layer"
+     inkscape:label="Mono (Inv)" />
 </svg>

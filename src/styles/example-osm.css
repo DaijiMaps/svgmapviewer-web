@@ -1,0 +1,14 @@
+body {
+  color: white;
+  background-color: #404040;
+  
+  --fg: white !important;
+}
+h1 {
+  color: yellow;
+}
+.logo {
+  .main {
+    stroke: white !important;
+  }
+}
