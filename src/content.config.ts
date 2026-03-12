@@ -1,7 +1,8 @@
-import { defineCollection, z } from "astro:content";
+import { glob } from "astro/loaders";import { defineCollection } from "astro:content";
+import { z } from "zod";
 
 const demoCollection = defineCollection({
-  type: "content",
+  loader: glob({ base: "./src/content/demos", pattern: "**/*.mdx" }),
   schema: z.object({
     title: z.string(),
     mapId: z.string(),
@@ -10,7 +11,7 @@ const demoCollection = defineCollection({
 });
 
 const floormapCollection = defineCollection({
-  type: "content",
+  loader: glob({ base: "./src/content/floormaps", pattern: "**/*.mdx" }),
   schema: z.object({
     title: z.string(),
     mapId: z.string(),

@@ -6,12 +6,11 @@
   "frontMatter.content.publicFolder": "public",
   "frontMatter.content.pageFolders": [
     {
-      "title": "demos",
-      "path": "[[workspace]]/src/content/demos"
+      "path": "[[workspace]]/src/content/floormaps",
+      "title": "floormaps"
     },
     {
-      "title": "floormaps",
-      "path": "[[workspace]]/src/content/floormaps"
+      "path": "[[workspace]]/src/content/demos"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [
