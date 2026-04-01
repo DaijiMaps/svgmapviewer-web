@@ -11,11 +11,11 @@
     "pages:deploy": "pnpm build && cd dist && wrangler pages deploy ."
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.7",
-    "@astrojs/mdx": "^5.0.0",
+    "@astrojs/check": "^0.9.8",
+    "@astrojs/mdx": "^5.0.2",
     "@astrojs/ts-plugin": "^1.10.7",
-    "@unocss/astro": "^66.6.6",
-    "astro": "^6.0.4",
+    "@unocss/astro": "^66.6.7",
+    "astro": "^6.0.8",
     "rehype-external-links": "^3.0.0",
     "rehype-raw": "^7.0.0",
     "title": "^4.0.1",
@@ -23,19 +23,19 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^8.57.0",
-    "@unocss/eslint-config": "66.6.6",
-    "@unocss/postcss": "66.6.6",
-    "@unocss/reset": "66.6.6",
-    "eslint": "^10.0.3",
+    "@typescript-eslint/parser": "^8.57.1",
+    "@unocss/eslint-config": "66.6.7",
+    "@unocss/postcss": "66.6.7",
+    "@unocss/reset": "66.6.7",
+    "eslint": "^10.1.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-astro": "^1.6.0",
     "eslint-plugin-prettier": "^5.5.5",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "sharp": "^0.34.5",
-    "unocss": "66.6.6",
-    "wrangler": "^4.73.0"
+    "unocss": "66.6.7",
+    "wrangler": "^4.76.0"
   },
   "pnpm": {
     "updateConfig": {
