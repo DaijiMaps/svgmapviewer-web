@@ -1,5 +1,5 @@
 demos_dirs='
-../svgmapviewer.worktrees/demos/packages/demos
+../svgmapviewer.worktrees/demos2/packages/demos
 ../svgmapviewer-demos/packages/demos
 '
 
