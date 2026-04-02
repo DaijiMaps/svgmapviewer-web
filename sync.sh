@@ -14,6 +14,11 @@ echo mapIds: $args
 
 for mapId in $args; do
   mapdir=
+  case $mapId in
+    */*)
+      mapId=$(basename $mapId)
+      ;;
+  esac
   for dir in $demos_dirs; do
     d="$dir/$mapId"
     if [ -d "$d" ]; then
