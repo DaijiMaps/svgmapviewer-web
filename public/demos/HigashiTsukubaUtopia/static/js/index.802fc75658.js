@@ -110,7 +110,7 @@ ${i}
 ${e_}
 `})(t,n,void 0===r.get(t)),[t,n,r]),o=(0,l.useCallback)(e=>()=>{let n;return e!==t?void 0:(n=e,er(eB.selectDone,n))},[t]),a=(0,l.useCallback)(e=>()=>{let r;return null!==n||e===t?void 0:(r=e,er(eB.lock,r))},[t,n]);return{fidx:t,prevFidx:n,style:i,fidxToOnAnimationEnd:o,fidxToOnClick:a,urls:r}}e5.onmessage=e=>{let t=e.data;switch(t.type){case"INIT.DONE":break;case"FETCH.DONE":{let{fidx:e,blob:n}=t;e1.send({type:"IMAGE",fidx:e,blob:n})}}},e5.onerror=e=>{console.error("floors error",e)},e5.onmessageerror=e=>{console.error("floors messageerror",e)};var e3=n(1642),e4=n(3772);let e6=`
 :root {
-  font-family: 'sans-serif';
+  font-family: sans-serif;
   text-align: center;
 }
 h1 {
