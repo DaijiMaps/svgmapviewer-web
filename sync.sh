@@ -34,7 +34,7 @@ for mapId in $args; do
   pushd "$mapdir"
   #pnpx vite build --base '' $vite_build_args
   pnpm install
-  env SERVER_BASE=/demos/"$mapId" pnpm build
+  env SERVER_BASE=/demos/"$mapId" pnpm build --base /demos/"$mapId"
   popd
   mkdir -p ./public/demos/${mapId}
   rsync -avz --delete ${mapdir}/dist/ ./public/demos/${mapId}/
