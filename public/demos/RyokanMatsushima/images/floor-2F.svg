@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="523.9425"
+   height="603.10431"
+   viewBox="0 0 523.94252 603.10431"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="501.99997"
+       y="760"
+       width="27.999998"
+       height="45"
+       id="rect133" />
+    <symbol
+       id="AigaSymbols.svg:Stairs_Inv">
+      <title
+         id="title62">Stairs</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:#ffffff"
+         id="rect62" />
+      <path
+         d="m 9,56.5 h 12 v -10 h 10 v -10 h 10 v -10 h 10 v -10 h 12"
+         style="fill:none;stroke:#ffffff;stroke-width:5"
+         id="path63" />
+    </symbol>
+    <symbol
+       id="AigaSymbols.svg:Toilets_Inv">
+      <title
+         id="title83">Toilets</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:#ffffff"
+         id="rect83" />
+      <g
+         style="fill:#ffffff;stroke:none"
+         id="g85">
+        <!-- Divider -->
+        <rect
+           x="33.5"
+           y="12"
+           width="5"
+           height="48"
+           id="rect84" />
+        <!-- Woman -->
+        <circle
+           cx="19.5"
+           cy="15"
+           r="4"
+           id="circle84" />
+        <path
+           d="m 19,44.5 v 14 a 2,2 0 0 1 -4,0 v -14 H 10 L 15.5,26 h -1 l -3,10.5 A 1.821,1.821 0 0 1 8,35.5 l 3.5,-12 A 5.7,4.6 0 0 1 17,20 h 5 a 5.7,4.6 0 0 1 5.5,3.5 l 3.5,12 a 1.821,1.821 0 0 1 -3.5,1 L 24.5,26 h -1 L 29,44.5 h -5 v 14 a 2,2 0 0 1 -4,0 v -14 z"
+           id="path84" />
+        <!-- Man -->
+        <circle
+           cx="52.5"
+           cy="15"
+           r="4"
+           id="circle85" />
+        <path
+           d="m 43,25 v 13 a 1.75,1.75 0 0 0 3.5,0 V 26.5 h 1 v 31.75 a 2.25,2.25 0 0 0 4.5,0 V 39.5 h 1 v 18.75 a 2.25,2.25 0 0 0 4.5,0 V 26.5 h 1 V 38 A 1.75,1.75 0 0 0 62,38 V 25 a 5,5 0 0 0 -5,-5 h -9 a 5,5 0 0 0 -5,5 z"
+           id="path85" />
+      </g>
+    </symbol>
+    <symbol
+       id="AigaSymbols.svg:StairsDown_Inv">
+      <title
+         id="title65">Stairs Down</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:#ffffff"
+         id="rect65-1" />
+      <path
+         d="m 9,56.5 h 12 v -10 h 10 v -10 h 10 v -10 h 10 v -10 h 12"
+         style="fill:none;stroke:#ffffff;stroke-width:5"
+         id="path66-7" />
+      <path
+         d="M 42,57 54,45 m -12,3 v 9 h 9"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="path67-8" />
+    </symbol>
+  </defs>
+  <g
+     id="layer1"
+     style=""
+     transform="translate(-402.47082,-231.91134)">
+    <g
+       id="2F-Content"
+       style="display:inline">
+      <g
+         id="g136">
+        <g
+           id="g138"
+           style="display:inline;opacity:0.25">
+          <g
+             id="g137">
+            <g
+               id="use136"
+               style="display:inline;stroke:none">
+              <path
+                 style="opacity:1;fill:#cccccc;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                 d="m 402.47082,835.01562 9.7754,-598.27282 416.70109,-4.83146 42.67411,352.21745 7.73338,139.0375 47.05851,49.89184 -124.98606,44.72848 z"
+                 id="path21" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g133">
+          <g
+             id="g131">
+            <g
+               id="use135"
+               transform="translate(2174.9999)">
+              <g
+                 id="g264"
+                 style="">
+                <g
+                   id="g263"
+                   style="display:inline;stroke:none"
+                   transform="translate(-335)">
+                  <g
+                     id="g262">
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="M -1425,805 V 695 h 10 v -25 h 250 v 15 h 25 v 120 z"
+                       id="path262" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g265"
+                 style="">
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m -1705,760 v -90 h 70 v 90 z"
+                   id="path264" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m -1635,760 v -90 h 115 v 90 z"
+                   id="path265" />
+              </g>
+              <g
+                 id="g268"
+                 style="">
+                <path
+                   style="display:inline;opacity:1;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,780 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
+                   id="path266" />
+                <path
+                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,730 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
+                   id="path267" />
+                <path
+                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,730 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20"
+                   id="path268" />
+              </g>
+              <g
+                 id="g292"
+                 style="">
+                <g
+                   id="g269">
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1425,805 V 695 h 10 v -25 h 250 v 15 h 25 v 120 z"
+                     id="path269"
+                     transform="translate(-335)" />
+                </g>
+                <g
+                   id="g286"
+                   style="display:inline;stroke:none"
+                   transform="translate(-335)">
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1425,730 h 55 v -60"
+                     id="path270" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1185,730 v 20 h 20 v 10 h -20 -185"
+                     id="path271" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1370,760 v 20 h 205 v -20"
+                     id="path272" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1185,730 h 20 v -45 h -20"
+                     id="path273" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1415,695 h 25"
+                     id="path274" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1405,805 V 730"
+                     id="path275" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1335,780 V 760"
+                     id="path276" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1300,780 V 760"
+                     id="path277" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1290,780 V 760"
+                     id="path278" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1255,780 V 760"
+                     id="path279" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1220,780 V 760"
+                     id="path280" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1185,780 V 760"
+                     id="path281" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1425,745 h 20"
+                     id="path282" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1425,760 h 20"
+                     id="path283" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1425,785 h 20"
+                     id="path284" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1425,775 h 10"
+                     id="path285" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1385,770 h 15"
+                     id="path286" />
+                </g>
+                <g
+                   id="g291">
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1705,730 v 30"
+                     id="path287" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m -1720,805 -20,-20"
+                     id="path288" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1520,730 V 670"
+                     id="path289" />
+                  <path
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M -1635,760 V 670"
+                     id="path290" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1719.9999,730 v 30 H -1705"
+                     id="path291" />
+                </g>
+              </g>
+              <g
+                 id="g296">
+                <g
+                   id="g293"
+                   style="display:inline"
+                   transform="translate(-4369.9999,330)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect292"
+                     width="25.000099"
+                     height="30"
+                     x="2870"
+                     y="420" />
+                  <use
+                     xlink:href="#AigaSymbols.svg:Stairs_Inv"
+                     style="display:inline;opacity:1;fill:#000000;stroke:#000000"
+                     id="use292"
+                     transform="matrix(0.11111111,0,0,0.11111111,2878.5,431)" />
+                </g>
+                <g
+                   id="g294"
+                   style="display:inline"
+                   transform="translate(-4369.9999,282)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect293"
+                     width="25.000055"
+                     height="30.000002"
+                     x="2870"
+                     y="418" />
+                  <use
+                     xlink:href="#AigaSymbols.svg:Stairs_Inv"
+                     style="display:inline;opacity:1;fill:#000000;stroke:#000000"
+                     id="use293"
+                     transform="matrix(0.11111111,0,0,0.11111111,2878.5,429)" />
+                </g>
+                <g
+                   id="g295"
+                   style="display:inline"
+                   transform="translate(-4392,307)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect294"
+                     width="20.000046"
+                     height="19.999998"
+                     x="2872"
+                     y="423" />
+                  <use
+                     xlink:href="#AigaSymbols.svg:Stairs_Inv"
+                     style="display:inline;opacity:1;fill:#000000;stroke:#000000"
+                     id="use294"
+                     transform="matrix(0.11111111,0,0,0.11111111,2878,429)" />
+                </g>
+              </g>
+              <g
+                 id="g300"
+                 style="">
+                <g
+                   id="g297"
+                   style="display:inline"
+                   transform="translate(-4435.9999,390)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect296"
+                     width="69.999947"
+                     height="90"
+                     x="2731"
+                     y="280" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2765.7749"
+                     y="322.06937"
+                     id="text297"><tspan
+                       x="2765.7749"
+                       y="322.06937"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan296">千歳</tspan><tspan
+                       x="2765.7749"
+                       y="335.5206"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan297">15帖</tspan></text>
+                </g>
+                <g
+                   id="g299"
+                   style="display:inline"
+                   transform="translate(-4338,393)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect297"
+                     width="115"
+                     height="90"
+                     x="2703"
+                     y="277" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2760.4851"
+                     y="319.07437"
+                     id="text299"><tspan
+                       x="2760.4851"
+                       y="319.07437"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan298">高砂</tspan><tspan
+                       x="2760.4851"
+                       y="332.5256"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan299">24帖</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g183">
+          <g
+             id="g199"
+             transform="rotate(-1.138,715.81944,521.50877)">
+            <g
+               id="use198"
+               style="display:inline"
+               transform="translate(-2099.3656,43.74291)">
+              <g
+                 id="g361">
+                <path
+                   style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="M 2810,555 V 340 h -40 V 235 h 160 v 130 h 15 v 200 h -60 -75 z"
+                   id="path361" />
+              </g>
+              <g
+                 id="g367">
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2810,340 h 95 v 90 h -95 z"
+                   id="path362" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2770,235 h 70 v 60 h -10 v 15 h -60 z"
+                   id="path363" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2840,235 h 90 v 60 h -15 -45 -30 z"
+                   id="path364" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2810,495 h 60 v 70 h -60 z"
+                   id="path365" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2870,470 h 75 v 95 h -75 z"
+                   id="path366" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2810,430 h 60 v 65 h -60 z"
+                   id="path367" />
+              </g>
+              <g
+                 id="g396">
+                <g
+                   id="g368">
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2810,555 V 340 h -40 V 235 h 160 v 130 h 15 v 200 h -60 -75 z"
+                     id="path368" />
+                </g>
+                <g
+                   id="g395">
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2945,510 H 2810"
+                     id="path369" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2885,495 h -75"
+                     id="path370" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2915,430 H 2810"
+                     id="path371" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2905,390 h -95"
+                     id="path372" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2810,340 h 95 v 90"
+                     id="path373" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2870,430 v 40"
+                     id="path374" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2885,510 V 470"
+                     id="path375" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2870,470 h 75"
+                     id="path376" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2870,445 h 45"
+                     id="path377" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2945,405 h -15 v -40"
+                     id="path378" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2930,310 H 2770"
+                     id="path379" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2770,295 h 160"
+                     id="path380" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2870,310 V 235"
+                     id="path381" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2840,235 v 60"
+                     id="path382" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2840,390 v 65"
+                     id="path383" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2900,470 V 445"
+                     id="path384" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2915,495 V 470"
+                     id="path385" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2899.9999,495 2900,470"
+                     id="path386" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2845,510 V 495"
+                     id="path387" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2855,455 v -50 h 50"
+                     id="path388" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2885,405 v 25"
+                     id="path389" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2885,390 V 340"
+                     id="path390" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2830,310 V 295"
+                     id="path391" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2800,310 V 295"
+                     id="path392" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2890,310 V 295"
+                     id="path393" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="M 2915,310 V 295"
+                     id="path394" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     d="m 2945,495 h -60"
+                     id="path395" />
+                </g>
+              </g>
+              <g
+                 id="g407">
+                <g
+                   id="g397"
+                   style="display:inline"
+                   transform="translate(149.9999,176)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect396"
+                     width="59.999771"
+                     height="55"
+                     x="2660.0002"
+                     y="334" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2689.9951"
+                     y="358.57938"
+                     id="text397"><tspan
+                       x="2689.9951"
+                       y="358.57938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan396">末広</tspan><tspan
+                       x="2689.9951"
+                       y="372.03061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan397">８帖</tspan></text>
+                </g>
+                <g
+                   id="g399"
+                   style="display:inline"
+                   transform="translate(149.9998,115)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect397"
+                     width="59.99987"
+                     height="40"
+                     x="2660.0002"
+                     y="340" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2689.9951"
+                     y="358.57938"
+                     id="text399"><tspan
+                       x="2689.9951"
+                       y="358.57938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan398">寿</tspan><tspan
+                       x="2689.9951"
+                       y="372.03061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan399">６帖</tspan></text>
+                </g>
+                <g
+                   id="g401"
+                   style="display:inline"
+                   transform="translate(156.9998,6)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect399"
+                     width="74.999954"
+                     height="50"
+                     x="2653.0002"
+                     y="334" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2690.2751"
+                     y="356.07938"
+                     id="text401"><tspan
+                       x="2690.2751"
+                       y="356.07938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan400">松</tspan><tspan
+                       x="2690.2751"
+                       y="369.53061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan401">10帖</tspan></text>
+                </g>
+                <g
+                   id="g403"
+                   style="display:inline"
+                   transform="translate(117.9998,-92)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect401"
+                     width="69.999985"
+                     height="59.999989"
+                     x="2652.0002"
+                     y="327" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2686.7751"
+                     y="354.08438"
+                     id="text403"><tspan
+                       x="2686.7751"
+                       y="354.08438"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan402">梅</tspan><tspan
+                       x="2686.7751"
+                       y="367.53561"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan403">10帖</tspan></text>
+                </g>
+                <g
+                   id="g405"
+                   style="display:inline"
+                   transform="translate(208.9998,-92)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect403"
+                     width="59.999954"
+                     height="60"
+                     x="2661.0002"
+                     y="327" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2690.0352"
+                     y="354.08438"
+                     id="text405"><tspan
+                       x="2690.0352"
+                       y="354.08438"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan404">竹</tspan><tspan
+                       x="2690.0352"
+                       y="367.53561"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan405">８帖</tspan></text>
+                </g>
+                <g
+                   id="g406"
+                   style="display:inline"
+                   transform="translate(214.99975,180)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect405"
+                     width="75.000061"
+                     height="55"
+                     x="2655.0002"
+                     y="330" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2692.2754"
+                     y="361.29498"
+                     id="text406"><tspan
+                       x="2692.2754"
+                       y="361.29498"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan406">10帖</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g244">
+          <g
+             id="g243"
+             transform="rotate(1.138,513,447.5)">
+            <g
+               id="use243"
+               style="display:inline"
+               transform="translate(-68.777416,1600.6844)">
+              <g
+                 id="g448">
+                <g
+                   id="g447"
+                   style="display:inline">
+                  <path
+                     style="display:inline;opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     d="m 490,-985 v -360 h 186 l -1,155 h -85 v 220 h -55 v -15 z"
+                     id="path447" />
+                </g>
+              </g>
+              <g
+                 id="g455">
+                <g
+                   id="g454">
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 490,-1245 v -100 h 65 v 20 h 5 v 40 h -12.5 v 40 z"
+                     id="path448" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 605,-1245 v -55 h 5 v -30 h 10 v -15 h 55 v 100 z"
+                     id="path449" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 547.5,-1245 v -40 H 560 v -40 h -5 v -20 h 65 v 15 h -10 v 30 h -5 v 55 z"
+                     id="path450" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 515,-1200 v -15 h 75 v 60 h -60 v -30 h -5 v -15 z"
+                     id="path451" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 514.99998,-1060 v -45 h 75 v 45 z"
+                     id="path452" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 514.99998,-1105 v -50 h 75 v 50 z"
+                     id="path453" />
+                  <path
+                     style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 490,-985 v -100 h 25 v 25 h 75 v 90 h -55 v -15 z"
+                     id="path454" />
+                </g>
+              </g>
+              <g
+                 id="g456">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m 610,-1190 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25"
+                   id="path455" />
+              </g>
+              <g
+                 id="g489">
+                <g
+                   id="g488"
+                   style="display:inline">
+                  <g
+                     id="g457">
+                    <path
+                       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 490,-985 v -360 h 185 v 155 h -85 v 220 h -55 v -15 z"
+                       id="path456" />
+                  </g>
+                  <g
+                     id="g487">
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 490,-1085 h 25"
+                       id="path457" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 530,-1100 v 40"
+                       id="path458" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 515,-1060 v 75"
+                       id="path459" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 490,-1025 h 25"
+                       id="path460" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 490,-1015 h 25"
+                       id="path461" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 490,-1040 h 25"
+                       id="path462" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 515,-1135 h 15"
+                       id="path463" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 515,-1085 h 15"
+                       id="path464" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="M 674.99998,-1270 H 489.99999"
+                       id="path465" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 650,-1270 -2e-5,25"
+                       id="path466" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 620,-1330 v -15"
+                       id="path467" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 545,-1325 h 15 v 40 h -12.5 v 40"
+                       id="path468" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 610,-1330 v 30 h -5 v 55"
+                       id="path469" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 525,-1200 h -10 v -15 h 75"
+                       id="path470" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 525,-1200 v 15 h 5 v 30"
+                       id="path471" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 590,-1155 h -75 v 50 h 75"
+                       id="path472" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 655,-1215 h -65 v 25"
+                       id="path473" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 590,-1100 h -60 v -5"
+                       id="path474" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 590,-1060 h -75 v -45"
+                       id="path475" />
+                    <path
+                       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="M 675,-1245 H 490"
+                       id="path476" />
+                    <path
+                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:square"
+                       d="m 555,-1325 v -20"
+                       id="path477" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 515,-1245 v -25"
+                       id="path478" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 535,-1245 v -25"
+                       id="path479" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 560,-1245 v -25"
+                       id="path480" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 585,-1245 v -25"
+                       id="path481" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:square"
+                       d="m 605,-1330 h 15"
+                       id="path482" />
+                    <path
+                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 535,-1200 v -15"
+                       id="path483" />
+                    <path
+                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 562,-1215 v 15"
+                       id="path484" />
+                    <path
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       d="m 525,-1200 h 65"
+                       id="path485" />
+                    <path
+                       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 530,-1155 v 50"
+                       id="path486" />
+                    <path
+                       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                       d="m 619.99998,-1330 v 85"
+                       id="path487" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g503">
+                <g
+                   id="g490"
+                   style="display:inline"
+                   transform="translate(-2281,-1605)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect489"
+                     width="55"
+                     height="75"
+                     x="2771"
+                     y="260" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2798.4851"
+                     y="294.57437"
+                     id="text490"><tspan
+                       x="2798.4851"
+                       y="294.57437"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan489">月</tspan><tspan
+                       x="2798.4851"
+                       y="308.0256"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan490">10帖</tspan></text>
+                </g>
+                <g
+                   id="g492"
+                   style="display:inline"
+                   transform="translate(-2279,-1518)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect490"
+                     width="60.000015"
+                     height="42.499996"
+                     x="2809"
+                     y="320.5" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2838.9451"
+                     y="338.82938"
+                     id="text492"><tspan
+                       x="2838.9451"
+                       y="338.82938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan491">桃</tspan><tspan
+                       x="2838.9451"
+                       y="352.28061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan492">６帖</tspan></text>
+                </g>
+                <g
+                   id="g494"
+                   style="display:inline"
+                   transform="translate(-2279,-1449)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect492"
+                     width="60"
+                     height="50"
+                     x="2809"
+                     y="294" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2837.9951"
+                     y="316.07938"
+                     id="text494"><tspan
+                       x="2837.9951"
+                       y="316.07938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan493">桐</tspan><tspan
+                       x="2837.9951"
+                       y="329.53061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan494">６帖</tspan></text>
+                </g>
+                <g
+                   id="g496"
+                   style="display:inline"
+                   transform="translate(-2274,-1354)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect494"
+                     width="75"
+                     height="75"
+                     x="2789"
+                     y="294" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2826.2749"
+                     y="328.57938"
+                     id="text496"><tspan
+                       x="2826.2749"
+                       y="328.57938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan495">菊</tspan><tspan
+                       x="2826.2749"
+                       y="342.03061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan496">12.5帖</tspan></text>
+                </g>
+                <g
+                   id="g498"
+                   style="display:inline"
+                   transform="translate(-2215,-1644)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect496"
+                     width="45"
+                     height="75"
+                     x="2775"
+                     y="299" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2797.5"
+                     y="333.34937"
+                     id="text498"><tspan
+                       x="2797.5"
+                       y="333.34937"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan497">雪</tspan><tspan
+                       x="2797.5"
+                       y="346.8006"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan498">7.5帖</tspan></text>
+                </g>
+                <g
+                   id="g500"
+                   style="display:inline"
+                   transform="translate(-2176,-1641)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect498"
+                     width="54.999981"
+                     height="75"
+                     x="2796"
+                     y="296" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2823.2749"
+                     y="330.56937"
+                     id="text500"><tspan
+                       x="2823.2749"
+                       y="330.56937"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan499">牡丹</tspan><tspan
+                       x="2823.2749"
+                       y="344.0206"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan500">10帖</tspan></text>
+                </g>
+                <g
+                   id="g502"
+                   style="display:inline"
+                   transform="translate(-2195,-1444)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect500"
+                     width="59.999981"
+                     height="40"
+                     x="2725"
+                     y="344" />
+                  <text
+                     xml:space="preserve"
+                     style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+                     x="2753.9949"
+                     y="361.07938"
+                     id="text502"><tspan
+                       x="2753.9949"
+                       y="361.07938"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan501">桜</tspan><tspan
+                       x="2753.9949"
+                       y="374.53061"
+                       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
+                       id="tspan502">６帖</tspan></text>
+                </g>
+              </g>
+              <g
+                 id="g510">
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 548.99998,-1245 h 10"
+                   id="path503" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 535.99998,-1245 h 10"
+                   id="path504" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 536.49998,-1215 h 11"
+                   id="path505" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 514.99998,-1153.5 v 12"
+                   id="path506" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 514.99998,-1095.5 v -8"
+                   id="path507" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="M 506.99998,-1085 H 496.49999"
+                   id="path508" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="M 514.99998,-1041.5 V -1057"
+                   id="path509" />
+                <path
+                   style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 620.99998,-1245 h 11.5"
+                   id="path510" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
