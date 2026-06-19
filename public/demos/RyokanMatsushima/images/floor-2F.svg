@@ -131,166 +131,166 @@
                id="use135"
                transform="translate(2174.9999)">
               <g
-                 id="g264"
-                 style="">
+                 id="g267"
+                 style="display:inline">
                 <g
-                   id="g263"
+                   id="g266"
                    style="display:inline;stroke:none"
                    transform="translate(-335)">
                   <g
-                     id="g262">
+                     id="g265">
                     <path
                        style="display:inline;fill:#ffffff;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="M -1425,805 V 695 h 10 v -25 h 250 v 15 h 25 v 120 z"
-                       id="path262" />
+                       id="path265" />
                   </g>
                 </g>
               </g>
               <g
-                 id="g265"
-                 style="">
+                 id="g268"
+                 style="display:inline">
                 <path
                    style="display:inline;opacity:0.2;fill:#ffff00;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m -1705,760 v -90 h 70 v 90 z"
-                   id="path264" />
+                   id="path267" />
                 <path
                    style="display:inline;opacity:0.2;fill:#ffff00;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m -1635,760 v -90 h 115 v 90 z"
-                   id="path265" />
-              </g>
-              <g
-                 id="g268"
-                 style="">
-                <path
-                   style="display:inline;opacity:1;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                   d="m -1500,780 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
-                   id="path266" />
-                <path
-                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                   d="m -1500,730 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
-                   id="path267" />
-                <path
-                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                   d="m -1500,730 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20"
                    id="path268" />
               </g>
               <g
-                 id="g292"
-                 style="">
+                 id="g271"
+                 style="display:inline">
+                <path
+                   style="display:inline;opacity:1;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,780 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
+                   id="path269" />
+                <path
+                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,730 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25 m -25,-4 h 25"
+                   id="path270" />
+                <path
+                   style="display:inline;fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                   d="m -1500,730 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20 m -4,-20 v 20"
+                   id="path271" />
+              </g>
+              <g
+                 id="g295"
+                 style="display:inline">
                 <g
-                   id="g269">
+                   id="g272">
                   <path
                      style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="M -1425,805 V 695 h 10 v -25 h 250 v 15 h 25 v 120 z"
-                     id="path269"
+                     id="path272"
                      transform="translate(-335)" />
                 </g>
                 <g
-                   id="g286"
+                   id="g289"
                    style="display:inline;stroke:none"
                    transform="translate(-335)">
                   <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m -1425,730 h 55 v -60"
-                     id="path270" />
-                  <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1185,730 v 20 h 20 v 10 h -20 -185"
-                     id="path271" />
-                  <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1370,760 v 20 h 205 v -20"
-                     id="path272" />
-                  <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1185,730 h 20 v -45 h -20"
                      id="path273" />
                   <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1415,695 h 25"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1185,730 v 20 h 20 v 10 h -20 -185"
                      id="path274" />
                   <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1405,805 V 730"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1370,760 v 20 h 205 v -20"
                      id="path275" />
                   <path
-                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1335,780 V 760"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1185,730 h 20 v -45 h -20"
                      id="path276" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1300,780 V 760"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1415,695 h 25"
                      id="path277" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1290,780 V 760"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1405,805 V 730"
                      id="path278" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1255,780 V 760"
+                     style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1335,780 V 760"
                      id="path279" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1220,780 V 760"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1300,780 V 760"
                      id="path280" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M -1185,780 V 760"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1290,780 V 760"
                      id="path281" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1425,745 h 20"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1255,780 V 760"
                      id="path282" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1425,760 h 20"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1220,780 V 760"
                      id="path283" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1425,785 h 20"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M -1185,780 V 760"
                      id="path284" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1425,775 h 10"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1425,745 h 20"
                      id="path285" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m -1385,770 h 15"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1425,760 h 20"
                      id="path286" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1425,785 h 20"
+                     id="path287" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1425,775 h 10"
+                     id="path288" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m -1385,770 h 15"
+                     id="path289" />
                 </g>
                 <g
-                   id="g291">
+                   id="g294">
                   <path
                      style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
                      d="m -1705,730 v 30"
-                     id="path287" />
+                     id="path290" />
                   <path
                      style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
                      d="m -1720,805 -20,-20"
-                     id="path288" />
+                     id="path291" />
                   <path
                      style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
                      d="M -1520,730 V 670"
-                     id="path289" />
+                     id="path292" />
                   <path
                      style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
                      d="M -1635,760 V 670"
-                     id="path290" />
+                     id="path293" />
                   <path
                      style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m -1719.9999,730 v 30 H -1705"
-                     id="path291" />
+                     id="path294" />
                 </g>
               </g>
               <g
-                 id="g296">
+                 id="g299">
                 <g
-                   id="g293"
+                   id="g296"
                    style="display:inline"
                    transform="translate(-4369.9999,330)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect292"
+                     id="rect295"
                      width="25.000099"
                      height="30"
                      x="2870"
@@ -298,16 +298,16 @@
                   <use
                      xlink:href="#AigaSymbols.svg:Stairs_Inv"
                      style="display:inline;opacity:1;fill:#000000;stroke:#000000"
-                     id="use292"
+                     id="use295"
                      transform="matrix(0.11111111,0,0,0.11111111,2878.5,431)" />
                 </g>
                 <g
-                   id="g294"
+                   id="g297"
                    style="display:inline"
                    transform="translate(-4369.9999,282)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect293"
+                     id="rect296"
                      width="25.000055"
                      height="30.000002"
                      x="2870"
@@ -315,16 +315,16 @@
                   <use
                      xlink:href="#AigaSymbols.svg:Stairs_Inv"
                      style="display:inline;opacity:1;fill:#000000;stroke:#000000"
-                     id="use293"
+                     id="use296"
                      transform="matrix(0.11111111,0,0,0.11111111,2878.5,429)" />
                 </g>
                 <g
-                   id="g295"
+                   id="g298"
                    style="display:inline"
                    transform="translate(-4392,307)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect294"
+                     id="rect297"
                      width="20.000046"
                      height="19.999998"
                      x="2872"
@@ -332,20 +332,20 @@
                   <use
                      xlink:href="#AigaSymbols.svg:Stairs_Inv"
                      style="display:inline;opacity:1;fill:#000000;stroke:#000000"
-                     id="use294"
+                     id="use297"
                      transform="matrix(0.11111111,0,0,0.11111111,2878,429)" />
                 </g>
               </g>
               <g
-                 id="g300"
-                 style="">
+                 id="g303"
+                 style="display:inline">
                 <g
-                   id="g297"
+                   id="g300"
                    style="display:inline"
                    transform="translate(-4435.9999,390)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect296"
+                     id="rect299"
                      width="69.999947"
                      height="90"
                      x="2731"
@@ -355,23 +355,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2765.7749"
                      y="322.06937"
-                     id="text297"><tspan
+                     id="text300"><tspan
                        x="2765.7749"
                        y="322.06937"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan296">千歳</tspan><tspan
+                       id="tspan299">千歳</tspan><tspan
                        x="2765.7749"
                        y="335.5206"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan297">15帖</tspan></text>
+                       id="tspan300">15帖</tspan></text>
                 </g>
                 <g
-                   id="g299"
+                   id="g302"
                    style="display:inline"
                    transform="translate(-4338,393)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect297"
+                     id="rect300"
                      width="115"
                      height="90"
                      x="2703"
@@ -381,15 +381,15 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2760.4851"
                      y="319.07437"
-                     id="text299"><tspan
+                     id="text302"><tspan
                        x="2760.4851"
                        y="319.07437"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan298">高砂</tspan><tspan
+                       id="tspan301">高砂</tspan><tspan
                        x="2760.4851"
                        y="332.5256"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan299">24帖</tspan></text>
+                       id="tspan302">24帖</tspan></text>
                 </g>
               </g>
             </g>
@@ -405,169 +405,184 @@
                style="display:inline"
                transform="translate(-2099.3656,43.74291)">
               <g
-                 id="g361">
+                 id="g364">
                 <path
                    style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="M 2810,555 V 340 h -40 V 235 h 160 v 130 h 15 v 200 h -60 -75 z"
-                   id="path361" />
+                   id="path364" />
               </g>
               <g
-                 id="g367">
+                 id="g370">
                 <path
                    style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 2810,340 h 95 v 90 h -95 z"
-                   id="path362" />
-                <path
-                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                   d="m 2770,235 h 70 v 60 h -10 v 15 h -60 z"
-                   id="path363" />
-                <path
-                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                   d="m 2840,235 h 90 v 60 h -15 -45 -30 z"
-                   id="path364" />
-                <path
-                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                   d="m 2810,495 h 60 v 70 h -60 z"
                    id="path365" />
                 <path
                    style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                   d="m 2870,470 h 75 v 95 h -75 z"
+                   d="m 2770,235 h 90 v 30 h -20 v 15 h 10 v 30 h -80 z"
                    id="path366" />
                 <path
                    style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                   d="m 2810,430 h 60 v 65 h -60 z"
+                   d="m 2860,235 h 70 v 75 h -15 -45 -20 v -30 h -10 v -15 h 20 z"
                    id="path367" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2810,495 h 60 v 70 h -60 z"
+                   id="path368" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2870,470 h 75 v 95 h -75 z"
+                   id="path369" />
+                <path
+                   style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2810,430 h 60 v 65 h -60 z"
+                   id="path370" />
               </g>
               <g
-                 id="g396">
+                 id="g371">
+                <path
+                   style="fill:none;stroke:#808080;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   d="m 2910,445 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15 m -4,15 v -15"
+                   id="path371" />
+              </g>
+              <g
+                 id="g402">
                 <g
-                   id="g368">
+                   id="g372">
                   <path
                      style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="M 2810,555 V 340 h -40 V 235 h 160 v 130 h 15 v 200 h -60 -75 z"
-                     id="path368" />
+                     id="path372" />
                 </g>
                 <g
-                   id="g395">
+                   id="g401">
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="M 2945,510 H 2810"
-                     id="path369" />
-                  <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2885,495 h -75"
-                     id="path370" />
-                  <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2915,430 H 2810"
-                     id="path371" />
-                  <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2905,390 h -95"
-                     id="path372" />
-                  <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2810,340 h 95 v 90"
                      id="path373" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2870,430 v 40"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2885,495 h -75"
                      id="path374" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2885,510 V 470"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2915,430 H 2810"
                      id="path375" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2870,470 h 75"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2905,390 h -95"
                      id="path376" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2870,445 h 45"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2810,340 h 95 v 90"
                      id="path377" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2945,405 h -15 v -40"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2870,430 v 40"
                      id="path378" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2930,310 H 2770"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2885,510 V 470"
                      id="path379" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2770,295 h 160"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2870,470 h 75"
                      id="path380" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2870,310 V 235"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2870,445 h 45"
                      id="path381" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2840,235 v 60"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2945,405 h -15 v -40"
                      id="path382" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2840,390 v 65"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2930,310 H 2770"
                      id="path383" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2900,470 V 445"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2770,295 h 160"
                      id="path384" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2915,495 V 470"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2870,310 V 235"
                      id="path385" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2899.9999,495 2900,470"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2860,235 v 30 h -20 v 15 h 10 v 30"
                      id="path386" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2845,510 V 495"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2840,390 v 65"
                      id="path387" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2855,455 v -50 h 50"
+                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2900,470 V 445"
                      id="path388" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2885,405 v 25"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2915,495 V 470"
                      id="path389" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2885,390 V 340"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2899.9999,495 2900,470"
                      id="path390" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2830,310 V 295"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2845,510 V 495"
                      id="path391" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2800,310 V 295"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2855,455 v -50 h 50"
                      id="path392" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2890,310 V 295"
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2885,405 v 25"
                      id="path393" />
                   <path
-                     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="M 2915,310 V 295"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2870,470 v 95"
                      id="path394" />
                   <path
-                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-                     d="m 2945,495 h -60"
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2809.9999,455 h 60"
                      id="path395" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2885,390 V 340"
+                     id="path396" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2830,310 V 295"
+                     id="path397" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2800,310 V 295"
+                     id="path398" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2890,310 V 295"
+                     id="path399" />
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="M 2915,310 V 295"
+                     id="path400" />
+                  <path
+                     style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     d="m 2945,495 h -60"
+                     id="path401" />
                 </g>
               </g>
               <g
-                 id="g407">
+                 id="g413">
                 <g
-                   id="g397"
+                   id="g403"
                    style="display:inline"
                    transform="translate(149.9999,176)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect396"
+                     id="rect402"
                      width="59.999771"
                      height="55"
                      x="2660.0002"
@@ -577,23 +592,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2689.9951"
                      y="358.57938"
-                     id="text397"><tspan
+                     id="text403"><tspan
                        x="2689.9951"
                        y="358.57938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan396">末広</tspan><tspan
+                       id="tspan402">末広</tspan><tspan
                        x="2689.9951"
                        y="372.03061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan397">８帖</tspan></text>
+                       id="tspan403">８帖</tspan></text>
                 </g>
                 <g
-                   id="g399"
+                   id="g405"
                    style="display:inline"
                    transform="translate(149.9998,115)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect397"
+                     id="rect403"
                      width="59.99987"
                      height="40"
                      x="2660.0002"
@@ -603,23 +618,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2689.9951"
                      y="358.57938"
-                     id="text399"><tspan
+                     id="text405"><tspan
                        x="2689.9951"
                        y="358.57938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan398">寿</tspan><tspan
+                       id="tspan404">寿</tspan><tspan
                        x="2689.9951"
                        y="372.03061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan399">６帖</tspan></text>
+                       id="tspan405">６帖</tspan></text>
                 </g>
                 <g
-                   id="g401"
+                   id="g407"
                    style="display:inline"
                    transform="translate(156.9998,6)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect399"
+                     id="rect405"
                      width="74.999954"
                      height="50"
                      x="2653.0002"
@@ -629,23 +644,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2690.2751"
                      y="356.07938"
-                     id="text401"><tspan
+                     id="text407"><tspan
                        x="2690.2751"
                        y="356.07938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan400">松</tspan><tspan
+                       id="tspan406">松</tspan><tspan
                        x="2690.2751"
                        y="369.53061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan401">10帖</tspan></text>
+                       id="tspan407">10帖</tspan></text>
                 </g>
                 <g
-                   id="g403"
+                   id="g409"
                    style="display:inline"
                    transform="translate(117.9998,-92)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect401"
+                     id="rect407"
                      width="69.999985"
                      height="59.999989"
                      x="2652.0002"
@@ -655,23 +670,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2686.7751"
                      y="354.08438"
-                     id="text403"><tspan
+                     id="text409"><tspan
                        x="2686.7751"
                        y="354.08438"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan402">梅</tspan><tspan
+                       id="tspan408">梅</tspan><tspan
                        x="2686.7751"
                        y="367.53561"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan403">10帖</tspan></text>
+                       id="tspan409">10帖</tspan></text>
                 </g>
                 <g
-                   id="g405"
+                   id="g411"
                    style="display:inline"
                    transform="translate(208.9998,-92)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect403"
+                     id="rect409"
                      width="59.999954"
                      height="60"
                      x="2661.0002"
@@ -681,23 +696,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2690.0352"
                      y="354.08438"
-                     id="text405"><tspan
+                     id="text411"><tspan
                        x="2690.0352"
                        y="354.08438"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan404">竹</tspan><tspan
+                       id="tspan410">竹</tspan><tspan
                        x="2690.0352"
                        y="367.53561"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan405">８帖</tspan></text>
+                       id="tspan411">８帖</tspan></text>
                 </g>
                 <g
-                   id="g406"
+                   id="g412"
                    style="display:inline"
                    transform="translate(214.99975,180)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect405"
+                     id="rect411"
                      width="75.000061"
                      height="55"
                      x="2655.0002"
@@ -707,11 +722,31 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2692.2754"
                      y="361.29498"
-                     id="text406"><tspan
+                     id="text412"><tspan
                        x="2692.2754"
                        y="361.29498"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan406">10帖</tspan></text>
+                       id="tspan412">10帖</tspan></text>
+                </g>
+              </g>
+              <g
+                 id="g415">
+                <g
+                   id="g414"
+                   style="display:inline"
+                   transform="translate(9.9999,-10)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect413"
+                     width="39.999947"
+                     height="15"
+                     x="2860"
+                     y="440" />
+                  <use
+                     xlink:href="#AigaSymbols.svg:Stairs_Inv"
+                     style="display:inline;opacity:1;fill:#000000;stroke:#000000"
+                     id="use413"
+                     transform="matrix(0.11111111,0,0,0.11111111,2878.0001,443.5)" />
                 </g>
               </g>
             </g>
@@ -727,207 +762,207 @@
                style="display:inline"
                transform="translate(-68.777416,1600.6844)">
               <g
-                 id="g448">
+                 id="g459">
                 <g
-                   id="g447"
+                   id="g458"
                    style="display:inline">
                   <path
                      style="display:inline;opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      d="m 490,-985 v -360 h 186 l -1,155 h -85 v 220 h -55 v -15 z"
-                     id="path447" />
+                     id="path458" />
                 </g>
               </g>
               <g
-                 id="g455">
+                 id="g466">
                 <g
-                   id="g454">
+                   id="g465">
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 490,-1245 v -100 h 65 v 20 h 5 v 40 h -12.5 v 40 z"
-                     id="path448" />
+                     id="path459" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 605,-1245 v -55 h 5 v -30 h 10 v -15 h 55 v 100 z"
-                     id="path449" />
+                     id="path460" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 547.5,-1245 v -40 H 560 v -40 h -5 v -20 h 65 v 15 h -10 v 30 h -5 v 55 z"
-                     id="path450" />
+                     id="path461" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 515,-1200 v -15 h 75 v 60 h -60 v -30 h -5 v -15 z"
-                     id="path451" />
+                     id="path462" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 514.99998,-1060 v -45 h 75 v 45 z"
-                     id="path452" />
+                     id="path463" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 514.99998,-1105 v -50 h 75 v 50 z"
-                     id="path453" />
+                     id="path464" />
                   <path
                      style="display:inline;opacity:0.2;fill:#ffff00;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 490,-985 v -100 h 25 v 25 h 75 v 90 h -55 v -15 z"
-                     id="path454" />
+                     id="path465" />
                 </g>
               </g>
               <g
-                 id="g456">
+                 id="g467">
                 <path
                    style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
                    d="m 610,-1190 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25 m 4,25 v -25"
-                   id="path455" />
+                   id="path466" />
               </g>
               <g
-                 id="g489">
+                 id="g500">
                 <g
-                   id="g488"
+                   id="g499"
                    style="display:inline">
                   <g
-                     id="g457">
+                     id="g468">
                     <path
                        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 490,-985 v -360 h 185 v 155 h -85 v 220 h -55 v -15 z"
-                       id="path456" />
+                       id="path467" />
                   </g>
                   <g
-                     id="g487">
+                     id="g498">
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 490,-1085 h 25"
-                       id="path457" />
+                       id="path468" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 530,-1100 v 40"
-                       id="path458" />
+                       id="path469" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 515,-1060 v 75"
-                       id="path459" />
+                       id="path470" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 490,-1025 h 25"
-                       id="path460" />
+                       id="path471" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 490,-1015 h 25"
-                       id="path461" />
+                       id="path472" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 490,-1040 h 25"
-                       id="path462" />
+                       id="path473" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 515,-1135 h 15"
-                       id="path463" />
+                       id="path474" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 515,-1085 h 15"
-                       id="path464" />
+                       id="path475" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="M 674.99998,-1270 H 489.99999"
-                       id="path465" />
+                       id="path476" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 650,-1270 -2e-5,25"
-                       id="path466" />
+                       id="path477" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 620,-1330 v -15"
-                       id="path467" />
+                       id="path478" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 545,-1325 h 15 v 40 h -12.5 v 40"
-                       id="path468" />
+                       id="path479" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 610,-1330 v 30 h -5 v 55"
-                       id="path469" />
+                       id="path480" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 525,-1200 h -10 v -15 h 75"
-                       id="path470" />
+                       id="path481" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 525,-1200 v 15 h 5 v 30"
-                       id="path471" />
+                       id="path482" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 590,-1155 h -75 v 50 h 75"
-                       id="path472" />
+                       id="path483" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 655,-1215 h -65 v 25"
-                       id="path473" />
+                       id="path484" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 590,-1100 h -60 v -5"
-                       id="path474" />
+                       id="path485" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 590,-1060 h -75 v -45"
-                       id="path475" />
+                       id="path486" />
                     <path
                        style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="M 675,-1245 H 490"
-                       id="path476" />
+                       id="path487" />
                     <path
                        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:square"
                        d="m 555,-1325 v -20"
-                       id="path477" />
+                       id="path488" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 515,-1245 v -25"
-                       id="path478" />
+                       id="path489" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 535,-1245 v -25"
-                       id="path479" />
+                       id="path490" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 560,-1245 v -25"
-                       id="path480" />
+                       id="path491" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 585,-1245 v -25"
-                       id="path481" />
+                       id="path492" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:square"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                        d="m 605,-1330 h 15"
-                       id="path482" />
+                       id="path493" />
                     <path
-                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 535,-1200 v -15"
-                       id="path483" />
+                       id="path494" />
                     <path
-                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 562,-1215 v 15"
-                       id="path484" />
+                       id="path495" />
                     <path
-                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-dasharray:none"
+                       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 525,-1200 h 65"
-                       id="path485" />
+                       id="path496" />
                     <path
                        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 530,-1155 v 50"
-                       id="path486" />
+                       id="path497" />
                     <path
                        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                        d="m 619.99998,-1330 v 85"
-                       id="path487" />
+                       id="path498" />
                   </g>
                 </g>
               </g>
               <g
-                 id="g503">
+                 id="g514">
                 <g
-                   id="g490"
+                   id="g501"
                    style="display:inline"
                    transform="translate(-2281,-1605)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect489"
+                     id="rect500"
                      width="55"
                      height="75"
                      x="2771"
@@ -937,23 +972,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2798.4851"
                      y="294.57437"
-                     id="text490"><tspan
+                     id="text501"><tspan
                        x="2798.4851"
                        y="294.57437"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan489">月</tspan><tspan
+                       id="tspan500">月</tspan><tspan
                        x="2798.4851"
                        y="308.0256"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan490">10帖</tspan></text>
+                       id="tspan501">10帖</tspan></text>
                 </g>
                 <g
-                   id="g492"
+                   id="g503"
                    style="display:inline"
                    transform="translate(-2279,-1518)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect490"
+                     id="rect501"
                      width="60.000015"
                      height="42.499996"
                      x="2809"
@@ -963,23 +998,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2838.9451"
                      y="338.82938"
-                     id="text492"><tspan
+                     id="text503"><tspan
                        x="2838.9451"
                        y="338.82938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan491">桃</tspan><tspan
+                       id="tspan502">桃</tspan><tspan
                        x="2838.9451"
                        y="352.28061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan492">６帖</tspan></text>
+                       id="tspan503">６帖</tspan></text>
                 </g>
                 <g
-                   id="g494"
+                   id="g505"
                    style="display:inline"
                    transform="translate(-2279,-1449)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect492"
+                     id="rect503"
                      width="60"
                      height="50"
                      x="2809"
@@ -989,23 +1024,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2837.9951"
                      y="316.07938"
-                     id="text494"><tspan
+                     id="text505"><tspan
                        x="2837.9951"
                        y="316.07938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan493">桐</tspan><tspan
+                       id="tspan504">桐</tspan><tspan
                        x="2837.9951"
                        y="329.53061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan494">６帖</tspan></text>
+                       id="tspan505">６帖</tspan></text>
                 </g>
                 <g
-                   id="g496"
+                   id="g507"
                    style="display:inline"
                    transform="translate(-2274,-1354)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect494"
+                     id="rect505"
                      width="75"
                      height="75"
                      x="2789"
@@ -1015,23 +1050,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2826.2749"
                      y="328.57938"
-                     id="text496"><tspan
+                     id="text507"><tspan
                        x="2826.2749"
                        y="328.57938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan495">菊</tspan><tspan
+                       id="tspan506">菊</tspan><tspan
                        x="2826.2749"
                        y="342.03061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan496">12.5帖</tspan></text>
+                       id="tspan507">12.5帖</tspan></text>
                 </g>
                 <g
-                   id="g498"
+                   id="g509"
                    style="display:inline"
                    transform="translate(-2215,-1644)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect496"
+                     id="rect507"
                      width="45"
                      height="75"
                      x="2775"
@@ -1041,23 +1076,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2797.5"
                      y="333.34937"
-                     id="text498"><tspan
+                     id="text509"><tspan
                        x="2797.5"
                        y="333.34937"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan497">雪</tspan><tspan
+                       id="tspan508">雪</tspan><tspan
                        x="2797.5"
                        y="346.8006"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan498">7.5帖</tspan></text>
+                       id="tspan509">7.5帖</tspan></text>
                 </g>
                 <g
-                   id="g500"
+                   id="g511"
                    style="display:inline"
                    transform="translate(-2176,-1641)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect498"
+                     id="rect509"
                      width="54.999981"
                      height="75"
                      x="2796"
@@ -1067,23 +1102,23 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2823.2749"
                      y="330.56937"
-                     id="text500"><tspan
+                     id="text511"><tspan
                        x="2823.2749"
                        y="330.56937"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan499">牡丹</tspan><tspan
+                       id="tspan510">牡丹</tspan><tspan
                        x="2823.2749"
                        y="344.0206"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan500">10帖</tspan></text>
+                       id="tspan511">10帖</tspan></text>
                 </g>
                 <g
-                   id="g502"
+                   id="g513"
                    style="display:inline"
                    transform="translate(-2195,-1444)">
                   <rect
                      style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-                     id="rect500"
+                     id="rect511"
                      width="59.999981"
                      height="40"
                      x="2725"
@@ -1093,51 +1128,72 @@
                      style="font-weight:800;font-size:10px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                      x="2753.9949"
                      y="361.07938"
-                     id="text502"><tspan
+                     id="text513"><tspan
                        x="2753.9949"
                        y="361.07938"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan501">桜</tspan><tspan
+                       id="tspan512">桜</tspan><tspan
                        x="2753.9949"
                        y="374.53061"
                        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#008000;stroke:none"
-                       id="tspan502">６帖</tspan></text>
+                       id="tspan513">６帖</tspan></text>
                 </g>
               </g>
               <g
-                 id="g510">
+                 id="g521">
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 548.99998,-1245 h 10"
-                   id="path503" />
+                   id="path514" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 535.99998,-1245 h 10"
-                   id="path504" />
+                   id="path515" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 536.49998,-1215 h 11"
-                   id="path505" />
+                   id="path516" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 514.99998,-1153.5 v 12"
-                   id="path506" />
+                   id="path517" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 514.99998,-1095.5 v -8"
-                   id="path507" />
+                   id="path518" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="M 506.99998,-1085 H 496.49999"
-                   id="path508" />
+                   id="path519" />
                 <path
                    style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="M 514.99998,-1041.5 V -1057"
-                   id="path509" />
+                   id="path520" />
                 <path
                    style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                    d="m 620.99998,-1245 h 11.5"
-                   id="path510" />
+                   id="path521" />
+              </g>
+              <g
+                 id="g523"
+                 style="display:inline">
+                <g
+                   id="g522"
+                   style="display:inline"
+                   transform="translate(-2255,-1641)">
+                  <rect
+                     style="opacity:1;fill:none;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                     id="rect521"
+                     width="40"
+                     height="25"
+                     x="2865"
+                     y="426" />
+                  <use
+                     xlink:href="#AigaSymbols.svg:Stairs_Inv"
+                     style="display:inline;opacity:1;fill:#000000;stroke:#000000"
+                     id="use521"
+                     transform="matrix(0.11111111,0,0,0.11111111,2881,434.5)" />
+                </g>
               </g>
             </g>
           </g>
