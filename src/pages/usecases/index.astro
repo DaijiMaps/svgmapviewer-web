@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+
+import ExampleLayout from "../../layouts/example.astro";
+
+const usecases = await getCollection('usecases')
+---
+<ExampleLayout title="Usecases">
+  {usecases && (
+  <ul class="usecases">
+    {usecases.map((usecase) => (
+      <li class="item">
+        <a href={`/usecases/${usecase.id}`}>
+          {usecase.data.title}
+        </a>
+      </li>
+    ))}
+  </ul>
+  )}
+</ExampleLayout>
+
+<style>
+.usecases {
+  display: flex;
+  flex-direction: column;
+}
+</style>

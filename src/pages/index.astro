@@ -1,9 +1,15 @@
 ---
-import Logo from "../components/Logo.astro";
+import Logo from "../components/LogoYG.astro";
+import IconWheel from "../components/IconWheel.astro";
+import Aiga from "../components/Aiga.astro";
 import "../styles/index.css";
 
+const contents = {
+  'Features': '/features',
+  'Usecases': '/usecases',
+  'Examples': '/examples',
+}
 ---
-
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
@@ -11,14 +17,41 @@ import "../styles/index.css";
     <title>svgmapviewer</title>
   </head>
   <body>
-    <div class="header">
-      <h1>svgmapviewer</h1>
+    <div class="content">
+      <div class="page">
+        <div class="header">
+          <h1><span class="title-svg">svg</span><span class="title-map">map</span><span class="title-viewer">viewer</span></h1>
+        </div>
+        <Logo />
+        <IconWheel />
+      </div>
+      <!--
+      <div class="page">
+        <article>
+          <ul class="pages">
+          {Object.entries(contents).map(([name, path]) => <li><a href={path}>{name}</a></li>)}
+          </ul>
+        </article>
+      </div>
+      -->
+      <div class="page">
+        <div class="footer">
+          <p>&copy; Daiji Maps</p>
+        </div>
+      </div>
     </div>
-    <article>
-      <Logo />
-    </article>
-    <div class="footer">
-      <p>&copy; Daiji Maps</p>
-    </div>
+    <Aiga/>
   </body>
 </html>
+
+<style>
+.pages {
+  font-size: 4em;
+}
+.title-svg {
+}
+.title-map {
+}
+.title-viewer {
+}
+</style>

@@ -7,7 +7,7 @@
    viewBox="0 0 14 14"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
    sodipodi:docname="logo-new.inkscape.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="10.980208"
-     inkscape:cx="26.411157"
-     inkscape:cy="12.568068"
+     inkscape:zoom="3.7785229"
+     inkscape:cx="105.86147"
+     inkscape:cy="26.333041"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="YellowGreen-Page"
      showguides="true">
     <inkscape:grid
        id="grid1"
@@ -48,6 +48,20 @@
        empspacing="2"
        enabled="true"
        visible="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="14"
+       height="14"
+       id="page1"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="21"
+       y="0"
+       width="14"
+       height="14"
+       id="page2" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -74,7 +88,8 @@
      inkscape:label="(Common)"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="Outer"
        inkscape:label="Outer"
@@ -133,19 +148,19 @@
          inkscape:label="1"
          style="display:inline">
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;enable-background:accumulate;fill:#000000"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate"
            d="m 3.5,3 v 6 l 2.65,2.5 h 1.7 L 10.5,9 V 3 H 7.85 L 7,3.5 6.15,3 Z m 1,1.5 h 5 v 4 l -1.65,1 H 6.15 L 4.5,8.5 Z"
            id="path18"
            sodipodi:nodetypes="ccccccccccccccccc"
            inkscape:label="1" />
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;fill:#000000"
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate"
            d="m 4,5.4 v 1.1 l 3,2 0.3,-0.9 z"
            id="path7"
            sodipodi:nodetypes="ccccc"
            inkscape:label="2" />
         <path
-           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;enable-background:accumulate;fill:#000000"
+           style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate"
            d="M 7,5.5 6.7,6.4 10,8.6 V 7.5 Z"
            id="path8"
            sodipodi:nodetypes="ccccc"
@@ -242,4 +257,180 @@
      id="g6"
      inkscape:groupmode="layer"
      inkscape:label="Mono (Inv)" />
+  <g
+     inkscape:label="YellowGreen"
+     inkscape:groupmode="layer"
+     id="YellowGreen-Page"
+     style="display:inline"
+     transform="translate(21)">
+    <g
+       id="YellowGreen-Content">
+      <g
+         id="g29"
+         inkscape:label="Outer"
+         style="display:inline">
+        <g
+           id="g26"
+           inkscape:label="1"
+           style="display:inline">
+          <path
+             style="fill:#9acd32;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+             d="M 1 1.5 H 13 V 7 H 1 Z"
+             id="path41"
+             inkscape:label="1" />
+          <path
+             style="fill:#9acd32;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+             d="M 1.0000002,6.9999997 H 13 V 10 l -5.0000002,3 c 0,0 -1.9999986,0 -1.9999986,0 L 1.0000002,9.9999995 Z"
+             id="path42"
+             inkscape:label="2" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1"
+             d="M 13,10 8,13 H 6 L 1,10 V 1 H 6 L 7,2 8,1 h 5 z"
+             id="path26"
+             inkscape:label="3"
+             sodipodi:nodetypes="cccccccccc" />
+        </g>
+        <g
+           id="g28"
+           inkscape:label="2"
+           style="display:inline">
+          <path
+             style="fill:#000000;stroke-width:1"
+             id="path27"
+             sodipodi:arc-type="arc"
+             sodipodi:type="arc"
+             sodipodi:cx="9.5"
+             sodipodi:cy="7"
+             sodipodi:rx="4"
+             sodipodi:ry="1.5"
+             sodipodi:start="4.712389"
+             sodipodi:end="1.5707963"
+             d="m 9.5 5.5 a 4 1.5 0 0 1 4 1.5 4 1.5 0 0 1 -4 1.5"
+             inkscape:label="1"
+             sodipodi:open="true" />
+          <path
+             style="display:inline;fill:#000000;stroke:none;stroke-width:0.666999;stroke-linejoin:round"
+             id="path28"
+             sodipodi:arc-type="arc"
+             sodipodi:type="arc"
+             sodipodi:cx="4.5"
+             sodipodi:cy="7"
+             sodipodi:rx="3.9999998"
+             sodipodi:ry="1.4999999"
+             sodipodi:start="1.5707964"
+             sodipodi:end="4.7123889"
+             d="M 4 8 A 4 1 0 0 1 1 7 4 1 0 0 1 4 6"
+             inkscape:label="2"
+             sodipodi:open="true" />
+        </g>
+      </g>
+      <g
+         id="g38"
+         inkscape:label="Inner"
+         style="display:inline">
+        <g
+           id="g31"
+           inkscape:label="1"
+           style="display:inline">
+          <path
+             style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;enable-background:accumulate"
+             d="m 4 4 v 5 l 3 2 L 10 9 V 4 Z"
+             id="path40"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:label="1" />
+          <path
+             style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate"
+             d="m 3.5 3 v 6 l 2.65 2.5 h 1.7 L 10.5 9 V 3 H 7.85 L 7 3.5 6.15 3 Z m 1 1.5 h 5 v 4 l -1.65 1 H 6.15 L 4.5 8.5 Z"
+             id="path29"
+             sodipodi:nodetypes="ccccccccccccccccc"
+             inkscape:label="2" />
+          <path
+             style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate"
+             d="m 4 5.4 v 1.1 l 3 2 0.3 -0.9 z"
+             id="path30"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="3" />
+          <path
+             style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate"
+             d="M 7 5.5 6.7 6.4 10 8.6 V 7.5 Z"
+             id="path31"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="4" />
+        </g>
+        <g
+           id="g37"
+           style="display:inline"
+           inkscape:label="2">
+          <g
+             id="g34"
+             inkscape:label="1"
+             style="display:inline">
+            <ellipse
+               style="fill:#000000"
+               id="ellipse31"
+               cx="4.5"
+               cy="4.25"
+               rx="1"
+               ry="0.75"
+               inkscape:label="1" />
+            <ellipse
+               style="fill:#000000"
+               id="ellipse32"
+               cx="9.5"
+               cy="4.25"
+               rx="1"
+               ry="0.75"
+               inkscape:label="2" />
+            <ellipse
+               style="fill:#000000"
+               id="ellipse33"
+               cx="9.5"
+               cy="7"
+               rx="1"
+               ry="0.75"
+               inkscape:label="3" />
+            <ellipse
+               style="fill:#000000"
+               id="ellipse34"
+               cx="4.5"
+               cy="7"
+               rx="1"
+               ry="0.75"
+               inkscape:label="4" />
+          </g>
+          <g
+             id="g36"
+             inkscape:label="2"
+             style="display:inline">
+            <ellipse
+               style="display:inline;fill:#000000"
+               id="ellipse35"
+               cx="7"
+               cy="8.25"
+               rx="1"
+               ry="0.75"
+               inkscape:label="1"
+               clip-path="url(#clipPath1)" />
+            <ellipse
+               style="display:inline;fill:#000000"
+               id="ellipse36"
+               cx="7"
+               cy="5.75"
+               rx="1"
+               ry="0.75"
+               inkscape:label="2"
+               clip-path="url(#clipPath2)" />
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect39"
+         width="14"
+         height="14"
+         x="0"
+         y="0"
+         inkscape:label="Frame" />
+    </g>
+  </g>
 </svg>

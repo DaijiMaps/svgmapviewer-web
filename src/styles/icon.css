@@ -1,0 +1,8 @@
+.icon {
+  position: absolute;
+  left: calc(50% - 2.5em);
+  top: calc(50% - 2.5em);
+  display: block;
+  transform-origin: 50% 50%;
+  animation: circle-move 120s linear infinite;
+}

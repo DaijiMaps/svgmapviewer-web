@@ -1,0 +1,38 @@
+---
+import Telephone from "../components/Aiga-Telephone-Inv.astro";
+const NIDXS = 20
+const idxs = (new Array(NIDXS)).fill(0).map((x, idx) => idx)
+const symbols = [
+'Telephone_Inv',
+'Stairs_Inv',
+'Toilets_Inv',
+'Mail_Inv',
+'Bus_Inv',
+
+'FirstAid_Inv',
+'LostAndFound_Inv',
+'BaggageLockers_Inv',
+'Coffeeshop_Inv',
+'Elevator_Inv',
+
+'Taxi_Inv',
+'Information_Inv',
+'Customs_Inv',
+'Nursery_Inv',
+'Restaurant_Inv',
+
+'BarberShop_Inv',
+'DrinkingFountain_Inv',
+'Escalator_Inv',
+'Immigration_Inv',
+'Smoking_Inv',
+]
+---
+<div class="icons">
+  {idxs.map((idx) => <Telephone idx={idx} symbol={symbols[idx]} width="5em" height="5em"/>)}
+</div>
+
+<style>
+.icons {
+}
+</style>

@@ -1,0 +1,35 @@
+---
+import { getCollection, getEntry } from "astro:content";
+
+import ExampleLayout from "../../layouts/example.astro";
+
+export const getStaticPaths = async () => {
+  const entries = await getCollection("usecases");
+  return entries.map((e) => ({
+    params: { id: e.id },
+    props: {
+      title: e.data.title,
+      examples: e.data.examples,
+    }
+  }))
+}
+
+const { id } = Astro.params;
+const { title, examples } = Astro.props;
+
+const floormaps = examples === undefined ? [] : await getCollection("floormaps")
+  .then(fs => fs.filter((f) => examples.findIndex(e => e.id === f.id) >= 0));
+---
+<ExampleLayout title={title}>
+  {examples && (
+  <ul>
+    {floormaps.map((f) => (
+    <li>
+      <a href={`/examples/${f.id}`}>
+        {f.data.title}
+      </a>
+    </li>
+    ))}
+  </ul>
+  )}
+</ExampleLayout>

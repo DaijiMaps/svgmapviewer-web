@@ -1,0 +1,1228 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="1008" style="fill:#000;stroke:#000" viewBox="0 0 720 1008">
+<title>
+AIGA Symbol Signs</title>
+<desc>
+Passenger/Pedestrian Symbols</desc>
+<defs>
+<symbol id="g">
+<title>
+Telephone</title>
+<g style="stroke:none">
+<path d="M23 36c0 24 11 30 13 30V49c-3 0-3-8-3-13s0-13 3-13V6c-3 0-13 6-13 30"/>
+<path id="a" d="M42 23a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-4v17z"/>
+<use xlink:href="#a" y="43"/>
+</g>
+</symbol>
+<symbol id="h">
+<title>
+Telephone</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M23 36c0 24 11 30 13 30V49c-3 0-3-8-3-13s0-13 3-13V6c-3 0-13 6-13 30"/>
+<path id="b" d="M42 23a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-4v17z"/>
+<use xlink:href="#b" y="43"/>
+</g>
+</symbol>
+<symbol id="i">
+<title>
+Mail</title>
+<g style="fill:none;stroke-width:4">
+<path d="M10.5 55.1h51V17.5h-51z"/>
+<path d="m11 17.75 22 22.6c1.6 1.6 4.4 1.6 6 .013L61 17.75M12 54l16.9-17M60 54 43.1 37"/>
+</g>
+</symbol>
+<symbol id="j">
+<title>
+Mail</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:none;stroke:#fff;stroke-width:4">
+<path d="M10.5 55.1h51V17.5h-51z"/>
+<path d="m11 17.75 22 22.6c1.6 1.6 4.4 1.6 6 .013L61 17.75M12 54l16.9-17M60 54 43.1 37"/>
+</g>
+</symbol>
+<symbol id="k">
+<title>
+Currency Exchange</title>
+<path d="M11 14h50v22H11z" style="fill:none;stroke-width:5.25"/>
+<g style="stroke:none">
+<circle cx="36" cy="25" r="7.25"/>
+<path d="M35.1 19v1.2c-.6.1-1.2.4-1.6.7-.7.5-1.2 1.2-1.2 2.1 0 .7.3 1.5.9 2 .4.4 1.2.7 1.9.8v2.1c-.7-.2-1.2-.9-1.2-1.3h-1.8c0 1 .5 1.7 1.2 2.3.5.4 1.1.8 1.8.9V31h1.8v-1.2c.6-.1 1.2-.3 1.7-.6.7-.5 1.3-1.25 1.3-2.2 0-.8-.3-1.6-1-2.1-.5-.3-1.3-.6-2-.7v-2.1c.6.3 1 .9 1 1.3h1.8c0-1.5-1.2-2.8-2.8-3.2V19zm0 4.9c-.8-.2-1-.5-1-.9s.5-.8 1-.9zm1.8 2.1c.8.2 1.2.4 1.2 1 0 .5-.6.8-1.2 1z" style="fill:#fff"/>
+<circle cx="48" cy="38" r="7.25"/>
+<path d="M48 32.6c-1.6 0-3.1 1.1-3.1 2.7 0 .5.1.9.2 1.3H44v1.8h1.4c.2 1-.3 1.5-.8 2.2v1.8h6.6v-1.8h-4.4c.4-.8.6-1.5.5-2.2h1.5v-1.8h-1.9c-.1-.5-.2-1-.2-1.3 0-.4.5-.9 1.3-.9 1 0 1.3.7 1.3 1.5h1.8q0-1.5-.9-2.4c-.6-.6-1.3-.9-2.2-.9" style="fill:#fff"/>
+<circle cx="21" cy="48" r="7.25"/>
+<path d="M21.9 46.6v5.8h1.8V50c0-1.6 1.8-1.7 1.8-1.7v-1.7c-.4 0-1.3.2-1.8 1v-1zm-.9-3.8c-1.6 0-2.7 1.2-2.7 2.7v1.1h-1.1v1.8h1.1v4h1.8v-4h1.3v-1.8h-1.3v-1.1c0-.7.3-1 .9-1s.9.3.9 1v.5h1.8v-.5c0-1.5-1.1-2.7-2.7-2.7" style="fill:#fff"/>
+<circle cx="43" cy="56" r="7.25"/>
+<path d="m41 51.8 2 3.4 2-3.4h2l-3.1 5.4h2.3V59h-2.3v2.4h-1.8V59h-2.3v-1.8h2.3L39 51.8z" style="fill:#fff"/>
+</g>
+</symbol>
+<symbol id="l">
+<title>
+Currency Exchange</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M11 14h50v22H11z" style="fill:none;stroke:#fff;stroke-width:5.25"/>
+<g style="stroke:none">
+<circle cx="36" cy="25" r="7.25" style="fill:#fff"/>
+<path d="M35.1 19v1.2c-.6.1-1.2.4-1.6.7-.7.5-1.2 1.2-1.2 2.1 0 .7.3 1.5.9 2 .4.4 1.2.7 1.9.8v2.1c-.7-.2-1.2-.9-1.2-1.3h-1.8c0 1 .5 1.7 1.2 2.3.5.4 1.1.8 1.8.9V31h1.8v-1.2c.6-.1 1.2-.3 1.7-.6.7-.5 1.3-1.25 1.3-2.2 0-.8-.3-1.6-1-2.1-.5-.3-1.3-.6-2-.7v-2.1c.6.3 1 .9 1 1.3h1.8c0-1.5-1.2-2.8-2.8-3.2V19zm0 4.9c-.8-.2-1-.5-1-.9s.5-.8 1-.9zm1.8 2.1c.8.2 1.2.4 1.2 1 0 .5-.6.8-1.2 1z"/>
+<circle cx="48" cy="38" r="7.25" style="fill:#fff"/>
+<path d="M48 32.6c-1.6 0-3.1 1.1-3.1 2.7 0 .5.1.9.2 1.3H44v1.8h1.4c.2 1-.3 1.5-.8 2.2v1.8h6.6v-1.8h-4.4c.4-.8.6-1.5.5-2.2h1.5v-1.8h-1.9c-.1-.5-.2-1-.2-1.3 0-.4.5-.9 1.3-.9 1 0 1.3.7 1.3 1.5h1.8q0-1.5-.9-2.4c-.6-.6-1.3-.9-2.2-.9"/>
+<circle cx="21" cy="48" r="7.25" style="fill:#fff"/>
+<path d="M21.9 46.6v5.8h1.8V50c0-1.6 1.8-1.7 1.8-1.7v-1.7c-.4 0-1.3.2-1.8 1v-1zm-.9-3.8c-1.6 0-2.7 1.2-2.7 2.7v1.1h-1.1v1.8h1.1v4h1.8v-4h1.3v-1.8h-1.3v-1.1c0-.7.3-1 .9-1s.9.3.9 1v.5h1.8v-.5c0-1.5-1.1-2.7-2.7-2.7"/>
+<circle cx="43" cy="56" r="7.25" style="fill:#fff"/>
+<path d="m41 51.8 2 3.4 2-3.4h2l-3.1 5.4h2.3V59h-2.3v2.4h-1.8V59h-2.3v-1.8h2.3L39 51.8z"/>
+</g>
+</symbol>
+<symbol id="m">
+<title>
+Currency Exchange - Euro</title>
+<path d="M11 14h50v22H11z" style="fill:none;stroke-width:5.25"/>
+<g style="stroke:none">
+<circle cx="36" cy="25" r="7.25"/>
+<path d="M35.1 19v1.2c-.6.1-1.2.4-1.6.7-.7.5-1.2 1.2-1.2 2.1 0 .7.3 1.5.9 2 .4.4 1.2.7 1.9.8v2.1c-.7-.2-1.2-.9-1.2-1.3h-1.8c0 1 .5 1.7 1.2 2.3.5.4 1.1.8 1.8.9V31h1.8v-1.2c.6-.1 1.2-.3 1.7-.6.7-.5 1.3-1.25 1.3-2.2 0-.8-.3-1.6-1-2.1-.5-.3-1.3-.6-2-.7v-2.1c.6.3 1 .9 1 1.3h1.8c0-1.5-1.2-2.8-2.8-3.2V19zm0 4.9c-.8-.2-1-.5-1-.9s.5-.8 1-.9zm1.8 2.1c.8.2 1.2.4 1.2 1 0 .5-.6.8-1.2 1z" style="fill:#fff"/>
+<circle cx="48" cy="38" r="7.25"/>
+<path d="M48 32.6c-1.6 0-3.1 1.1-3.1 2.7 0 .5.1.9.2 1.3H44v1.8h1.4c.2 1-.3 1.5-.8 2.2v1.8h6.6v-1.8h-4.4c.4-.8.6-1.5.5-2.2h1.5v-1.8h-1.9c-.1-.5-.2-1-.2-1.3 0-.4.5-.9 1.3-.9 1 0 1.3.7 1.3 1.5h1.8q0-1.5-.9-2.4c-.6-.6-1.3-.9-2.2-.9" style="fill:#fff"/>
+<circle cx="21" cy="48" r="7.25"/>
+<path d="M21 42.7c-1.21 0-2.3.5-3 1.5-.4.6-.7 1.3-.9 2.2h-.7v1.2h.6v.8h-.6v1.2h.7c.2.9.5 1.6.9 2.2.7 1 1.79 1.5 3 1.5s2.3-.5 3-1.5c.3-.5.5-1 .7-1.6h-1.9c-.1.3-.2.4-.3.6-.3.5-.7.8-1.5.8s-1.2-.3-1.5-.8c-.12-.3-.4-.7-.5-1.2h3.6v-1.2h-3.7v-.8h3.7v-1.2H19c.1-.5.3-.9.5-1.2.3-.5.7-.8 1.5-.8s1.2.3 1.5.8c.1.2.2.3.3.6h1.9c-.2-.6-.4-1.1-.7-1.6-.7-1-1.8-1.5-3-1.5" style="fill:#fff"/>
+<circle cx="43" cy="56" r="7.25"/>
+<path d="m41 51.8 2 3.4 2-3.4h2l-3.1 5.4h2.3V59h-2.3v2.4h-1.8V59h-2.3v-1.8h2.3L39 51.8z" style="fill:#fff"/>
+</g>
+</symbol>
+<symbol id="n">
+<title>
+Currency Exchange - Euro</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M11 14h50v22H11z" style="fill:none;stroke:#fff;stroke-width:5.25"/>
+<g style="stroke:none">
+<circle cx="36" cy="25" r="7.25" style="fill:#fff"/>
+<path d="M35.1 19v1.2c-.6.1-1.2.4-1.6.7-.7.5-1.2 1.2-1.2 2.1 0 .7.3 1.5.9 2 .4.4 1.2.7 1.9.8v2.1c-.7-.2-1.2-.9-1.2-1.3h-1.8c0 1 .5 1.7 1.2 2.3.5.4 1.1.8 1.8.9V31h1.8v-1.2c.6-.1 1.2-.3 1.7-.6.7-.5 1.3-1.25 1.3-2.2 0-.8-.3-1.6-1-2.1-.5-.3-1.3-.6-2-.7v-2.1c.6.3 1 .9 1 1.3h1.8c0-1.5-1.2-2.8-2.8-3.2V19zm0 4.9c-.8-.2-1-.5-1-.9s.5-.8 1-.9zm1.8 2.1c.8.2 1.2.4 1.2 1 0 .5-.6.8-1.2 1z"/>
+<circle cx="48" cy="38" r="7.25" style="fill:#fff"/>
+<path d="M48 32.6c-1.6 0-3.1 1.1-3.1 2.7 0 .5.1.9.2 1.3H44v1.8h1.4c.2 1-.3 1.5-.8 2.2v1.8h6.6v-1.8h-4.4c.4-.8.6-1.5.5-2.2h1.5v-1.8h-1.9c-.1-.5-.2-1-.2-1.3 0-.4.5-.9 1.3-.9 1 0 1.3.7 1.3 1.5h1.8q0-1.5-.9-2.4c-.6-.6-1.3-.9-2.2-.9"/>
+<circle cx="21" cy="48" r="7.25" style="fill:#fff"/>
+<path d="M21 42.7c-1.21 0-2.3.5-3 1.5-.4.6-.7 1.3-.9 2.2h-.7v1.2h.6v.8h-.6v1.2h.7c.2.9.5 1.6.9 2.2.7 1 1.79 1.5 3 1.5s2.3-.5 3-1.5c.3-.5.5-1 .7-1.6h-1.9c-.1.3-.2.4-.3.6-.3.5-.7.8-1.5.8s-1.2-.3-1.5-.8c-.12-.3-.4-.7-.5-1.2h3.6v-1.2h-3.7v-.8h3.7v-1.2H19c.1-.5.3-.9.5-1.2.3-.5.7-.8 1.5-.8s1.2.3 1.5.8c.1.2.2.3.3.6h1.9c-.2-.6-.4-1.1-.7-1.6-.7-1-1.8-1.5-3-1.5"/>
+<circle cx="43" cy="56" r="7.25" style="fill:#fff"/>
+<path d="m41 51.8 2 3.4 2-3.4h2l-3.1 5.4h2.3V59h-2.3v2.4h-1.8V59h-2.3v-1.8h2.3L39 51.8z"/>
+</g>
+</symbol>
+<symbol id="o">
+<title>
+Cashier</title>
+<g style="fill:none;stroke-width:6">
+<circle cx="36" cy="36" r="24"/>
+<path d="M45 30c0-4-4-6-9-6s-9 2-9 6 4 5.5 9 6 10 1 10 6-5 6-10 6-9-3-9-7m9-24v38"/>
+</g>
+</symbol>
+<symbol id="p">
+<title>
+Cashier</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:none;stroke:#fff;stroke-width:6">
+<circle cx="36" cy="36" r="24"/>
+<path d="M45 30c0-4-4-6-9-6s-9 2-9 6 4 5.5 9 6 10 1 10 6-5 6-10 6-9-3-9-7m9-24v38"/>
+</g>
+</symbol>
+<symbol id="q">
+<title>
+First Aid</title>
+<path d="M44 13v15h15v16H44v15H28V44H13V28h15V13z" style="stroke:none"/>
+</symbol>
+<symbol id="r">
+<title>
+First Aid</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M44 13v15h15v16H44v15H28V44H13V28h15V13z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="s">
+<title>
+Lost and Found</title>
+<path d="M30.6 14.6c0-3 .6-6.6 5.4-6.6 2.4 0 4.8 1.8 4.8 4.2s-1.2 3.6-2.4 4.2-2.4 1.2-2.4 3V23m0 1.5v4" style="fill:none;stroke-width:4"/>
+<path d="m51 28-38 8v2l38 8v-7h8a3.5 3.5 0 0 1 0 7 2 2 0 0 0 0 4 7.5 7.5 0 0 0 0-15h-8zM12 38H6a1 1 0 0 1 0-2h6zM49.5 56a1.5 1.5 0 0 1 1.5 1.5v7L46 63H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h12l-4.5-1.25a1.85 1.85 0 0 1 1-3.5L51 48v4.5a1.5 1.5 0 0 1-1.5 1.5h-2a1 1 0 0 0 0 2z" style="stroke:none"/>
+</symbol>
+<symbol id="t">
+<title>
+Lost and Found</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M30.6 14.6c0-3 .6-6.6 5.4-6.6 2.4 0 4.8 1.8 4.8 4.2s-1.2 3.6-2.4 4.2-2.4 1.2-2.4 3V23m0 1.5v4" style="fill:none;stroke:#fff;stroke-width:4"/>
+<path d="m51 28-38 8v2l38 8v-7h8a3.5 3.5 0 0 1 0 7 2 2 0 0 0 0 4 7.5 7.5 0 0 0 0-15h-8zM12 38H6a1 1 0 0 1 0-2h6zM49.5 56a1.5 1.5 0 0 1 1.5 1.5v7L46 63H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h13.5v-1H20a1.5 1.5 0 0 1 0-3h12l-4.5-1.25a1.85 1.85 0 0 1 1-3.5L51 48v4.5a1.5 1.5 0 0 1-1.5 1.5h-2a1 1 0 0 0 0 2z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="u">
+<title>
+Coat Check</title>
+<path d="m36 31 25 14.5a3.5 3.5 0 0 1-1.5 6.5h-47a3.5 3.5 0 0 1-1.5-6.5L36 31v-3a4 4 0 0 0-2-3.4 5.5 5.5 0 1 1 7.5-4.6" style="fill:none;stroke-width:4;stroke-linecap:round"/>
+</symbol>
+<symbol id="v">
+<title>
+Coat Check</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="m36 31 25 14.5a3.5 3.5 0 0 1-1.5 6.5h-47a3.5 3.5 0 0 1-1.5-6.5L36 31v-3a4 4 0 0 0-2-3.4 5.5 5.5 0 1 1 7.5-4.6" style="fill:none;stroke:#fff;stroke-width:4;stroke-linecap:round"/>
+</symbol>
+<symbol id="w">
+<title>
+Baggage Lockers</title>
+<path d="M34.625 11a7.5 7.5 0 1 0 0 7H37l2.5-2.5 2 2 2-2 2 2 2-2 2 2L52 15q.75-.75 0-1.5L49.5 11zM27 14.5a2 2 0 1 1-4 0 2 2 0 1 1 4 0" style="stroke:none"/>
+<path d="M16.5 26.5h39v32h-39z" style="fill:#fff;stroke-width:5"/>
+<path d="M33.5 31.5A1.5 1.5 0 0 0 32 33v2.5h-3v18h14.5v-18H40V33a1.5 1.5 0 0 0-1.5-1.5zm0 1.5h5v2.5h-5zm-8 2.5A2.5 2.5 0 0 0 23 38v13a2.5 2.5 0 0 0 2.5 2.5h2v-18zm19.5 0v18h1.5A2.5 2.5 0 0 0 49 51V38a2.5 2.5 0 0 0-2.5-2.5z" style="stroke:none"/>
+</symbol>
+<symbol id="x">
+<title>
+Baggage Lockers</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M34.625 11a7.5 7.5 0 1 0 0 7H37l2.5-2.5 2 2 2-2 2 2 2-2 2 2L52 15q.75-.75 0-1.5L49.5 11zM27 14.5a2 2 0 1 1-4 0 2 2 0 1 1 4 0" style="fill:#fff;stroke:none"/>
+<path d="M16.5 26.5h39v32h-39z" style="fill:none;stroke:#fff;stroke-width:5"/>
+<path d="M33.5 31.5A1.5 1.5 0 0 0 32 33v2.5h-3v18h14.5v-18H40V33a1.5 1.5 0 0 0-1.5-1.5zm0 1.5h5v2.5h-5zm-8 2.5A2.5 2.5 0 0 0 23 38v13a2.5 2.5 0 0 0 2.5 2.5h2v-18zm19.5 0v18h1.5A2.5 2.5 0 0 0 49 51V38a2.5 2.5 0 0 0-2.5-2.5z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="y">
+<title>
+Escalator</title>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="stroke:none"/>
+</symbol>
+<symbol id="z">
+<title>
+Escalator</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke:#fff;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="fill:#fff;stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="A">
+<title>
+Escalator Down</title>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="stroke:none"/>
+<path d="m42 57 12-12m-12 3v9h9" style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="B">
+<title>
+Escalator Down</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke:#fff;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="fill:#fff;stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="fill:#fff;stroke:none"/>
+<path d="m42 57 12-12m-12 3v9h9" style="fill:none;stroke:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="C">
+<title>
+Escalator Up</title>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="stroke:none"/>
+<path d="M54 45 42 57m12-3v-9h-9" style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="D">
+<title>
+Escalator Up</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M55 28c-1 0-2 0-3 1L27 54q-3 3-6 3h-9a6 6 270 1 1 0-12h5c1 0 2 0 3-1l25-25q3-3 6-3h9a6 6 90 1 1 0 12z" style="fill:none;stroke:#fff;stroke-width:4"/>
+<path d="m27 35 9-9v-3a4.5 4.5 0 0 0-9 0z" style="fill:#fff;stroke:none"/>
+<circle cx="31.5" cy="13.5" r="4.5" style="fill:#fff;stroke:none"/>
+<path d="M54 45 42 57m12-3v-9h-9" style="fill:none;stroke:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="E">
+<title>
+Stairs</title>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke-width:5"/>
+</symbol>
+<symbol id="F">
+<title>
+Stairs</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke:#fff;stroke-width:5"/>
+</symbol>
+<symbol id="G">
+<title>
+Stairs Down</title>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke-width:5"/>
+<path d="m42 57 12-12m-12 3v9h9" style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="H">
+<title>
+Stairs Down</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke:#fff;stroke-width:5"/>
+<path d="m42 57 12-12m-12 3v9h9" style="fill:none;stroke:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="I">
+<title>
+Stairs Up</title>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke-width:5"/>
+<path d="M54 45 42 57m12-3v-9h-9" style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="J">
+<title>
+Stairs Up</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M9 56.5h12v-10h10v-10h10v-10h10v-10h12" style="fill:none;stroke:#fff;stroke-width:5"/>
+<path d="M54 45 42 57m12-3v-9h-9" style="fill:none;stroke:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</symbol>
+<symbol id="K">
+<title>
+Elevator</title>
+<g style="fill:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round">
+<path d="M26.5 23.5v-17M20 14l6.5-7.5L33 14M45.5 6.5v17M39 16l6.5 7.5L52 16"/>
+</g>
+<rect width="38" height="38" x="17" y="28" ry="5" style="stroke:none"/>
+<path d="M22 33h28v28H22z" style="fill:#fff;stroke:none"/>
+<g id="c" style="stroke:none">
+<circle cx="27.5" cy="38.75" r="1.75"/>
+<path d="M24.5 41a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h.25v8.5a1.25 1.25 0 1 0 2.5 0V50h.5v8.5a1.25 1.25 0 1 0 2.5 0V50h.25a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1z"/>
+</g>
+<use xlink:href="#c" x="8.5"/>
+<use xlink:href="#c" x="17"/>
+</symbol>
+<symbol id="L">
+<title>
+Elevator</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:none;stroke:#fff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round">
+<path d="M26.5 23.5v-17M20 14l6.5-7.5L33 14M45.5 6.5v17M39 16l6.5 7.5L52 16"/>
+</g>
+<rect width="38" height="38" x="17" y="28" ry="5" style="fill:#fff;stroke:none"/>
+<path d="M22 33h28v28H22z" style="stroke:none"/>
+<g id="d" style="fill:#fff;stroke:none">
+<circle cx="27.5" cy="38.75" r="1.75"/>
+<path d="M24.5 41a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h.25v8.5a1.25 1.25 0 1 0 2.5 0V50h.5v8.5a1.25 1.25 0 1 0 2.5 0V50h.25a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1z"/>
+</g>
+<use xlink:href="#d" x="8.5"/>
+<use xlink:href="#d" x="17"/>
+</symbol>
+<symbol id="M">
+<title>
+Toilets - Men</title>
+<g style="stroke:none">
+<circle cx="36" cy="9" r="5"/>
+<path d="M24 22v15.5a2.25 2.25 0 0 0 4.5 0V23h1v39.5a3 3 0 0 0 6 0V40h1v22.5a3 3 0 0 0 6 0V23h1v14.5a2.25 2.25 0 0 0 4.5 0V22a7 7 0 0 0-7-7H31a7 7 0 0 0-7 7"/>
+</g>
+</symbol>
+<symbol id="N">
+<title>
+Toilets - Men</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="36" cy="9" r="5"/>
+<path d="M24 22v15.5a2.25 2.25 0 0 0 4.5 0V23h1v39.5a3 3 0 0 0 6 0V40h1v22.5a3 3 0 0 0 6 0V23h1v14.5a2.25 2.25 0 0 0 4.5 0V22a7 7 0 0 0-7-7H31a7 7 0 0 0-7 7"/>
+</g>
+</symbol>
+<symbol id="O">
+<title>
+Toilets - Women</title>
+<g style="stroke:none">
+<circle cx="36" cy="10" r="5"/>
+<path d="M35.5 64a2.5 2.5 0 0 1-5 0V47H24l7-23.5h-1l-4.1 13.4a2.1 2.1 0 0 1-4-1.2l4.6-15.2A6.5 6.5 0 0 1 33 16h6a6.5 6.5 0 0 1 6.5 4.5l4.6 15.2a2.1 2.1 0 0 1-4 1.2L42 23.5h-1L48 47h-6.5v17a2.5 2.5 0 0 1-5 0V47h-1z"/>
+</g>
+</symbol>
+<symbol id="P">
+<title>
+Toilets - Women</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="36" cy="10" r="5"/>
+<path d="M35.5 64a2.5 2.5 0 0 1-5 0V47H24l7-23.5h-1l-4.1 13.4a2.1 2.1 0 0 1-4-1.2l4.6-15.2A6.5 6.5 0 0 1 33 16h6a6.5 6.5 0 0 1 6.5 4.5l4.6 15.2a2.1 2.1 0 0 1-4 1.2L42 23.5h-1L48 47h-6.5v17a2.5 2.5 0 0 1-5 0V47h-1z"/>
+</g>
+</symbol>
+<symbol id="Q">
+<title>
+Toilets</title>
+<g style="stroke:none">
+<path d="M33.5 12h5v48h-5z"/>
+<circle cx="19.5" cy="15" r="4"/>
+<path d="M19 44.5v14a2 2 0 0 1-4 0v-14h-5L15.5 26h-1l-3 10.5a1.821 1.821 0 0 1-3.5-1l3.5-12A5.7 4.6 0 0 1 17 20h5a5.7 4.6 0 0 1 5.5 3.5l3.5 12a1.821 1.821 0 0 1-3.5 1l-3-10.5h-1L29 44.5h-5v14a2 2 0 0 1-4 0v-14z"/>
+<circle cx="52.5" cy="15" r="4"/>
+<path d="M43 25v13a1.75 1.75 0 0 0 3.5 0V26.5h1v31.75a2.25 2.25 0 0 0 4.5 0V39.5h1v18.75a2.25 2.25 0 0 0 4.5 0V26.5h1V38a1.75 1.75 0 0 0 3.5 0V25a5 5 0 0 0-5-5h-9a5 5 0 0 0-5 5"/>
+</g>
+</symbol>
+<symbol id="R">
+<title>
+Toilets</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M33.5 12h5v48h-5z"/>
+<circle cx="19.5" cy="15" r="4"/>
+<path d="M19 44.5v14a2 2 0 0 1-4 0v-14h-5L15.5 26h-1l-3 10.5a1.821 1.821 0 0 1-3.5-1l3.5-12A5.7 4.6 0 0 1 17 20h5a5.7 4.6 0 0 1 5.5 3.5l3.5 12a1.821 1.821 0 0 1-3.5 1l-3-10.5h-1L29 44.5h-5v14a2 2 0 0 1-4 0v-14z"/>
+<circle cx="52.5" cy="15" r="4"/>
+<path d="M43 25v13a1.75 1.75 0 0 0 3.5 0V26.5h1v31.75a2.25 2.25 0 0 0 4.5 0V39.5h1v18.75a2.25 2.25 0 0 0 4.5 0V26.5h1V38a1.75 1.75 0 0 0 3.5 0V25a5 5 0 0 0-5-5h-9a5 5 0 0 0-5 5"/>
+</g>
+</symbol>
+<symbol id="S">
+<title>
+Nursery</title>
+<g style="stroke:none">
+<circle cx="36" cy="15.75" r="7.5"/>
+<path d="M28 39.5V34l-6 6a2.475 2.475 0 0 1-3.5-3.5l10-10c1-1 1.5-1.5 3-1.5h9c1.5 0 2 .5 3 1.5l10 10A2.475 2.475 0 0 1 50 40l-6-6v5.5z"/>
+<path id="e" d="M34 48.5 29.5 53l4.5 4.5a2.475 2.475 0 0 1-3.5 3.5L23 53.5a4.2 4.2 0 0 1 0-6l5-5z"/>
+<use xlink:href="#e" transform="matrix(-1 0 0 1 72 0)"/>
+</g>
+</symbol>
+<symbol id="T">
+<title>
+Nursery</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="36" cy="15.75" r="7.5"/>
+<path d="M28 39.5V34l-6 6a2.475 2.475 0 0 1-3.5-3.5l10-10c1-1 1.5-1.5 3-1.5h9c1.5 0 2 .5 3 1.5l10 10A2.475 2.475 0 0 1 50 40l-6-6v5.5z"/>
+<path id="f" d="M34 48.5 29.5 53l4.5 4.5a2.475 2.475 0 0 1-3.5 3.5L23 53.5a4.2 4.2 0 0 1 0-6l5-5z"/>
+<use xlink:href="#f" transform="matrix(-1 0 0 1 72 0)"/>
+</g>
+</symbol>
+<symbol id="U">
+<title>
+Drinking Fountain</title>
+<g style="stroke:none">
+<circle cx="45" cy="16" r="5.5"/>
+<path d="M34 28.5v5a2.5 2.5 0 0 0 .75 1.75l6.5 6.5a2.475 2.475 0 0 0 3.5-3.5L39 32.5v-10a5.5 5.5 0 0 0-8-5L19 24a5 5 0 0 0-3 5v32.5a4 4 0 0 0 8 0v-27z"/>
+<path d="M54.5 45h7V29h-17a2.5 2.5 0 0 0-1.75 4.25z"/>
+<circle cx="47.75" cy="27.25" r=".7"/>
+<circle cx="49.5" cy="27.25" r=".7"/>
+<circle cx="47.75" cy="25.25" r=".7"/>
+<circle cx="49.75" cy="25.25" r=".7"/>
+<circle cx="48.5" cy="23.25" r=".7"/>
+<circle cx="50.75" cy="23.75" r=".7"/>
+<circle cx="49.75" cy="21.75" r=".75"/>
+<circle cx="51.5" cy="21" r=".75"/>
+<circle cx="51.5" cy="21" r=".75"/>
+<circle cx="52.5" cy="23" r=".75"/>
+<circle cx="53.75" cy="21" r=".85"/>
+<circle cx="54.25" cy="23.5" r=".85"/>
+<circle cx="55.5" cy="22" r=".9"/>
+<circle cx="55.75" cy="25.25" r=".9"/>
+<circle cx="57.25" cy="23.5" r=".9"/>
+</g>
+</symbol>
+<symbol id="V">
+<title>
+Drinking Fountain</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="45" cy="16" r="5.5"/>
+<path d="M34 28.5v5a2.5 2.5 0 0 0 .75 1.75l6.5 6.5a2.475 2.475 0 0 0 3.5-3.5L39 32.5v-10a5.5 5.5 0 0 0-8-5L19 24a5 5 0 0 0-3 5v32.5a4 4 0 0 0 8 0v-27z"/>
+<path d="M54.5 45h7V29h-17a2.5 2.5 0 0 0-1.75 4.25z"/>
+<circle cx="47.75" cy="27.25" r=".7"/>
+<circle cx="49.5" cy="27.25" r=".7"/>
+<circle cx="47.75" cy="25.25" r=".7"/>
+<circle cx="49.75" cy="25.25" r=".7"/>
+<circle cx="48.5" cy="23.25" r=".7"/>
+<circle cx="50.75" cy="23.75" r=".7"/>
+<circle cx="49.75" cy="21.75" r=".75"/>
+<circle cx="51.5" cy="21" r=".75"/>
+<circle cx="51.5" cy="21" r=".75"/>
+<circle cx="52.5" cy="23" r=".75"/>
+<circle cx="53.75" cy="21" r=".85"/>
+<circle cx="54.25" cy="23.5" r=".85"/>
+<circle cx="55.5" cy="22" r=".9"/>
+<circle cx="55.75" cy="25.25" r=".9"/>
+<circle cx="57.25" cy="23.5" r=".9"/>
+</g>
+</symbol>
+<symbol id="W">
+<title>
+Waiting Room</title>
+<circle cx="49.5" cy="17" r="8" style="fill:#fff;stroke-width:1.75"/>
+<path d="M49.5 12v5l4.5-2" style="fill:none;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round"/>
+<circle cx="25" cy="14" r="6" style="stroke:none"/>
+<path d="M42 63a3 3 0 0 0 6 0V43.5a4.5 4.5 0 0 0-4.5-4.5h-9.625L31 25a5.5 5.5 0 0 0-10.75 2.25l3.375 16.5A5.5 5.5 0 0 0 29 48h13z" style="stroke:none"/>
+<path d="m17.25 30.5 3 14.5c1 3.5 4 6.5 7.5 6.5h9.5" style="fill:none;stroke-width:5;stroke-linecap:round"/>
+</symbol>
+<symbol id="X">
+<title>
+Waiting Room</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<circle cx="49.5" cy="17" r="8" style="stroke:#fff;stroke-width:1.75"/>
+<path d="M49.5 12v5l4.5-2" style="fill:none;stroke:#fff;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round"/>
+<circle cx="25" cy="14" r="6" style="fill:#fff;stroke:none"/>
+<path d="M42 63a3 3 0 0 0 6 0V43.5a4.5 4.5 0 0 0-4.5-4.5h-9.625L31 25a5.5 5.5 0 0 0-10.75 2.25l3.375 16.5A5.5 5.5 0 0 0 29 48h13z" style="fill:#fff;stroke:none"/>
+<path d="m17.25 30.5 3 14.5c1 3.5 4 6.5 7.5 6.5h9.5" style="fill:none;stroke:#fff;stroke-width:5;stroke-linecap:round"/>
+</symbol>
+<symbol id="Y">
+<title>
+Information</title>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke-width:6"/>
+<path d="M27 32c0-5 1-11 9-11 4 0 8 3 8 7s-2 6-4 7-4 2-4 5v6" style="fill:none;stroke-width:6"/>
+<path d="M33 48h6v6h-6z" style="stroke:none"/>
+</symbol>
+<symbol id="Z">
+<title>
+Information</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke:#fff;stroke-width:6"/>
+<path d="M27 32c0-5 1-11 9-11 4 0 8 3 8 7s-2 6-4 7-4 2-4 5v6" style="fill:none;stroke:#fff;stroke-width:6"/>
+<path d="M33 48h6v6h-6z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aa">
+<title>
+Hotel Information</title>
+<circle cx="36" cy="20" r="11" style="fill:none;stroke-width:3"/>
+<path d="M31.5 18c0-2.5.5-5.5 4.5-5.5 2 0 4 1.5 4 3.5s-1 3-2 3.5-2 1-2 2.5v3" style="fill:none;stroke-width:3"/>
+<path d="M34.5 26h3v3h-3zM9 32v31h6v-8h42v8h6V39a3 3 0 0 0-6 0v9H15V32a3 3 0 0 0-6 0" style="stroke:none"/>
+<path d="M52 36a4 4 0 0 1 4 4v7H32V36z" style="stroke:none"/>
+<path d="M18.5 44.5h10v-6" style="fill:none;stroke-width:5;stroke-linecap:round"/>
+<circle cx="20.75" cy="36.75" r="4.75" style="stroke:none"/>
+</symbol>
+<symbol id="ab">
+<title>
+Hotel Information</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<circle cx="36" cy="20" r="11" style="fill:none;stroke:#fff;stroke-width:3"/>
+<path d="M31.5 18c0-2.5.5-5.5 4.5-5.5 2 0 4 1.5 4 3.5s-1 3-2 3.5-2 1-2 2.5v3" style="fill:none;stroke:#fff;stroke-width:3"/>
+<path d="M34.5 26h3v3h-3zM9 32v31h6v-8h42v8h6V39a3 3 0 0 0-6 0v9H15V32a3 3 0 0 0-6 0" style="fill:#fff;stroke:none"/>
+<path d="M52 36a4 4 0 0 1 4 4v7H32V36z" style="fill:#fff;stroke:none"/>
+<path d="M18.5 44.5h10v-6" style="fill:none;stroke:#fff;stroke-width:5;stroke-linecap:round"/>
+<circle cx="20.75" cy="36.75" r="4.75" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="ac">
+<title>
+Air Transportation</title>
+<path d="M39 10v18l25 15v7l-25-9v14l6 4v6l-9-3-9 3v-6l6-4V41L8 50v-7l25-15V10a3 3 0 0 1 6 0" style="stroke:none"/>
+</symbol>
+<symbol id="ad">
+<title>
+Air Transportation</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M39 10v18l25 15v7l-25-9v14l6 4v6l-9-3-9 3v-6l6-4V41L8 50v-7l25-15V10a3 3 0 0 1 6 0" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="ae">
+<title>
+Heliport</title>
+<path d="M31 53h30" style="fill:none;stroke-width:6;stroke-linecap:round"/>
+<path d="M30.5 42 29 38l-19-7.5c-2.5-1-2-4.5 1-4.5h41c4.5 0 7.4 3 8.5 6l3 8c1 3-.5 5-3.5 5H34c-2.5 0-3-1.5-3.5-3" style="stroke:none"/>
+<g style="fill:#fff;stroke:none">
+<path d="M40 36h4.5v-7H40zM47 36h4.5v-7H47zM58 32.5l1.5 3.5H54v-7c1.5.3 3.1 1.5 4 3.5"/>
+</g>
+<g style="fill:none;stroke-width:3">
+<path d="M38.5 20v6"/>
+<path d="M33.5 19.5h10" style="stroke-width:1.5"/>
+<path d="M15.5 19.5h17M44.5 19.5h17" style="stroke-linecap:round"/>
+</g>
+<circle cx="10.5" cy="28.5" r="5.5" style="fill:none;stroke-width:2.5"/>
+</symbol>
+<symbol id="af">
+<title>
+Heliport</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M31 53h30" style="fill:none;stroke:#fff;stroke-width:6;stroke-linecap:round"/>
+<path d="M30.5 42 29 38l-19-7.5c-2.5-1-2-4.5 1-4.5h41c4.5 0 7.4 3 8.5 6l3 8c1 3-.5 5-3.5 5H34c-2.5 0-3-1.5-3.5-3" style="fill:#fff;stroke:none"/>
+<g style="stroke:none">
+<path d="M40 36h4.5v-7H40zM47 36h4.5v-7H47zM58 32.5l1.5 3.5H54v-7c1.5.3 3.1 1.5 4 3.5"/>
+</g>
+<g style="fill:none;stroke:#fff;stroke-width:3">
+<path d="M38.5 20v6"/>
+<path d="M33.5 19.5h10" style="stroke-width:1.5"/>
+<path d="M15.5 19.5h17M44.5 19.5h17" style="stroke-linecap:round"/>
+</g>
+<circle cx="10.5" cy="28.5" r="5.5" style="fill:none;stroke:#fff;stroke-width:2.5"/>
+</symbol>
+<symbol id="ag">
+<title>
+Taxi</title>
+<path d="M23 54v5a3.5 3.5 0 0 1-7 0v-5h-4V40a4 4 0 0 1 4-4l4-10a6 6 0 0 1 6-4h5v-2.5a1.5 1.5 0 0 1 1.5-1.5h7a1.5 1.5 0 0 1 1.5 1.5V22h5a6 6 0 0 1 6 4l4 10a4 4 0 0 1 4 4v14h-4v5a3.5 3.5 0 0 1-7 0v-5zm-3-18 3.5-8.5a2.2 2.2 0 0 1 2-1.5h21a2.2 2.2 0 0 1 2 1.5L52 36z" style="stroke:none;fill-rule:evenodd"/>
+<circle cx="19.5" cy="43" r="3.5" style="fill:#fff;stroke:none"/>
+<circle cx="51.5" cy="43" r="3.5" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="ah">
+<title>
+Taxi</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M23 54v5a3.5 3.5 0 0 1-7 0v-5h-4V40a4 4 0 0 1 4-4l4-10a6 6 0 0 1 6-4h5v-2.5a1.5 1.5 0 0 1 1.5-1.5h7a1.5 1.5 0 0 1 1.5 1.5V22h5a6 6 0 0 1 6 4l4 10a4 4 0 0 1 4 4v14h-4v5a3.5 3.5 0 0 1-7 0v-5zm-3-18 3.5-8.5a2.2 2.2 0 0 1 2-1.5h21a2.2 2.2 0 0 1 2 1.5L52 36z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+<circle cx="19.5" cy="43" r="3.5" style="stroke:none"/>
+<circle cx="51.5" cy="43" r="3.5" style="stroke:none"/>
+</symbol>
+<symbol id="ai">
+<title>
+Bus</title>
+<path d="M14 58h4v4a3 3 0 0 0 6 0v-4h24v4a3 3 0 0 0 6 0v-4h4V35l-2-16a8 8 0 0 0-6-6 40 40 0 0 0-28 0 8 8 0 0 0-6 6l-2 16zm8-38a2.5 2.5 0 0 0-2.5 2L18 35a1.5 1.75 0 0 0 1.5 2h33a1.5 1.75 0 0 0 1.5-2l-1.5-13a2.5 2.5 0 0 0-2.5-2z" style="stroke:none;fill-rule:evenodd"/>
+<path d="M27 16.5h18" style="fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round"/>
+<circle cx="21" cy="48" r="3" style="fill:#fff;stroke:none"/>
+<circle cx="51" cy="48" r="3" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aj">
+<title>
+Bus</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M14 58h4v4a3 3 0 0 0 6 0v-4h24v4a3 3 0 0 0 6 0v-4h4V35l-2-16a8 8 0 0 0-6-6 40 40 0 0 0-28 0 8 8 0 0 0-6 6l-2 16zm8-38a2.5 2.5 0 0 0-2.5 2L18 35a1.5 1.75 0 0 0 1.5 2h33a1.5 1.75 0 0 0 1.5-2l-1.5-13a2.5 2.5 0 0 0-2.5-2z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+<path d="M27 16.5h18" style="fill:none;stroke-width:3;stroke-linecap:round"/>
+<circle cx="21" cy="48" r="3" style="stroke:none"/>
+<circle cx="51" cy="48" r="3" style="stroke:none"/>
+</symbol>
+<symbol id="ak">
+<title>
+Ground Transportation</title>
+<path d="M11.5 48v3a2 2 0 0 1-4 0l-.1-3H5v-8.5A2.5 2.5 0 0 1 7.5 37l2.5-6a4 4 0 0 1 3.5-2h3v-1.5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1V29h3a4 4 0 0 1 3.5 2l2.5 6a2.5 2.5 0 0 1 2.5 2.5V48h-2.5v3a2 2 0 0 1-4 0v-3zM10 37l2-5a1.5 1.5 0 0 1 1.5-1h12a2.5 1.5 0 0 1 1.5 1l2 5z" style="stroke:none;fill-rule:evenodd"/>
+<circle cx="9.5" cy="41.5" r="2" style="fill:#fff;stroke:none"/>
+<circle cx="29.5" cy="41.5" r="2" style="fill:#fff;stroke:none"/>
+<path d="M36 48h2.5v3a2 2 0 0 0 4 0v-3h18v3a2 2 0 0 0 4 0v-3H67V31.5L65.5 20a5.6 5.6 0 0 0-4-4 28 28 0 0 0-20 0 5.6 5.6 0 0 0-4 4L36 31.5zm5.5-27a1.75 1.75 0 0 0-2 1.5l-1 9a1 1.225 0 0 0 1 1.5h24a1 1.225 0 0 0 1-1.5l-1-9a1.75 1.75 0 0 0-2.372-1.5z" style="stroke:none;fill-rule:evenodd"/>
+<path d="M45 18h13" style="fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round"/>
+<circle cx="40.5" cy="40.5" r="2.25" style="fill:#fff;stroke:none"/>
+<circle cx="62.5" cy="40.5" r="2.25" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="al">
+<title>
+Ground Transportation</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M11.5 48v3a2 2 0 0 1-4 0l-.1-3H5v-8.5A2.5 2.5 0 0 1 7.5 37l2.5-6a4 4 0 0 1 3.5-2h3v-1.5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1V29h3a4 4 0 0 1 3.5 2l2.5 6a2.5 2.5 0 0 1 2.5 2.5V48h-2.5v3a2 2 0 0 1-4 0v-3zM10 37l2-5a1.5 1.5 0 0 1 1.5-1h12a2.5 1.5 0 0 1 1.5 1l2 5z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+<circle cx="9.5" cy="41.5" r="2" style="stroke:none"/>
+<circle cx="29.5" cy="41.5" r="2" style="stroke:none"/>
+<path d="M36 48h2.5v3a2 2 0 0 0 4 0v-3h18v3a2 2 0 0 0 4 0v-3H67V31.5L65.5 20a5.6 5.6 0 0 0-4-4 28 28 0 0 0-20 0 5.6 5.6 0 0 0-4 4L36 31.5zm5.5-27a1.75 1.75 0 0 0-2 1.5l-1 9a1 1.225 0 0 0 1 1.5h24a1 1.225 0 0 0 1-1.5l-1-9a1.75 1.75 0 0 0-2.372-1.5z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+<path d="M45 18h13" style="fill:none;stroke-width:2;stroke-linecap:round"/>
+<circle cx="40.5" cy="40.5" r="2.25" style="stroke:none"/>
+<circle cx="62.5" cy="40.5" r="2.25" style="stroke:none"/>
+</symbol>
+<symbol id="am">
+<title>
+Rail Transportation</title>
+<g style="stroke:none">
+<path d="M27 12a8 8 0 0 0-8 8v26a8 8 0 0 0 6.156 7.781L17 66h5l6-9h16l6 9h5l-8.156-12.219A8 8 0 0 0 53 46V20a8 8 0 0 0-8-8zm5 2h8a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1m-5 6h18a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4H27a4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4m2.75 26a3.25 3.25 0 1 1-6.5 0 3.25 3.25 0 1 1 6.5 0m18.75 0a3.25 3.25 0 1 1-6.5 0 3.25 3.25 0 1 1 6.5 0"/>
+<circle cx="33.25" cy="9.5" r="2"/>
+<circle cx="38.75" cy="9.5" r="2"/>
+</g>
+</symbol>
+<symbol id="an">
+<title>
+Rail Transportation</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M27 12a8 8 0 0 0-8 8v26a8 8 0 0 0 6.156 7.781L17 66h5l6-9h16l6 9h5l-8.156-12.219A8 8 0 0 0 53 46V20a8 8 0 0 0-8-8zm5 2h8a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1m-5 6h18a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4H27a4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4m2.75 26a3.25 3.25 0 1 1-6.5 0 3.25 3.25 0 1 1 6.5 0m18.75 0a3.25 3.25 0 1 1-6.5 0 3.25 3.25 0 1 1 6.5 0"/>
+<circle cx="33.25" cy="9.5" r="2"/>
+<circle cx="38.75" cy="9.5" r="2"/>
+</g>
+</symbol>
+<symbol id="ao">
+<title>
+Water Transportation</title>
+<path d="M32 8v5h-7v4h-4v8.25l-3 1.25c-1 .4-1.4 1.5-1 2.5l4 9v13.5c-2-.5-2.5-2-6-2-4 0-4 2-7 2v5c4 0 4-2 7-2s3 2 7 2 4-2 7-2 4 2 7 2 3-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2v-5c-3 0-3-2-7-2-3.5 0-4 1.5-6 2V38l4-9c.44-1 0-2.1-1-2.5l-3-1.25V17h-4v-4h-7V8zm-3 9h14v4h4v2.5L36 19l-11 4.5V21h4zM15 57.5c-4 0-4 2-7 2v5c4 0 4-2 7-2s3 2 7 2 4-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2v-5c-3 0-3-2-7-2s-4 2-7 2-3-2-7-2-4 2-7 2-3-2-7-2-4 2-7 2-3-2-7-2" style="stroke:none"/>
+</symbol>
+<symbol id="ap">
+<title>
+Water Transportation</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M32 8v5h-7v4h-4v8.25l-3 1.25c-1 .4-1.4 1.5-1 2.5l4 9v13.5c-2-.5-2.5-2-6-2-4 0-4 2-7 2v5c4 0 4-2 7-2s3 2 7 2 4-2 7-2 4 2 7 2 3-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2v-5c-3 0-3-2-7-2-3.5 0-4 1.5-6 2V38l4-9c.44-1 0-2.1-1-2.5l-3-1.25V17h-4v-4h-7V8zm-3 9h14v4h4v2.5L36 19l-11 4.5V21h4zM15 57.5c-4 0-4 2-7 2v5c4 0 4-2 7-2s3 2 7 2 4-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2 4-2 7-2 3 2 7 2v-5c-3 0-3-2-7-2s-4 2-7 2-3-2-7-2-4 2-7 2-3-2-7-2-4 2-7 2-3-2-7-2" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aq">
+<title>
+Car Rental</title>
+<g style="stroke:none;fill-rule:evenodd">
+<path d="M34.5 10a9.25 9.25 0 1 0 0 9h5l2.5-2.5 2 2 2-2 2 2 2-2 2 2 4-4c.24-.24.24-.76 0-1L52.5 10zM25 14.5a2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1 5 0M45.5 27c3 0 4.26 1.5 5 3.5L54 40c1.5 0 4 1.8 4 5v12h-3v4a3.5 3.5 0 0 1-7 0v-4H24v4a3.5 3.5 0 0 1-7 0v-4h-3V45c0-3.2 2.5-5 4-5l3.5-9.5c.74-2 2-3.5 5-3.5zm5 13h-29l2.75-7.5c.36-1 1-2 2.25-2h19c1.25 0 1.89 1 2.25 2zm-27 7a3 3 0 1 1-6 0 3 3 0 1 1 6 0m31 0a3 3 0 1 1-6 0 3 3 0 1 1 6 0"/>
+</g>
+</symbol>
+<symbol id="ar">
+<title>
+Car Rental</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none;fill-rule:evenodd">
+<path d="M34.5 10a9.25 9.25 0 1 0 0 9h5l2.5-2.5 2 2 2-2 2 2 2-2 2 2 4-4c.24-.24.24-.76 0-1L52.5 10zM25 14.5a2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1 5 0M45.5 27c3 0 4.26 1.5 5 3.5L54 40c1.5 0 4 1.8 4 5v12h-3v4a3.5 3.5 0 0 1-7 0v-4H24v4a3.5 3.5 0 0 1-7 0v-4h-3V45c0-3.2 2.5-5 4-5l3.5-9.5c.74-2 2-3.5 5-3.5zm5 13h-29l2.75-7.5c.36-1 1-2 2.25-2h19c1.25 0 1.89 1 2.25 2zm-27 7a3 3 0 1 1-6 0 3 3 0 1 1 6 0m31 0a3 3 0 1 1-6 0 3 3 0 1 1 6 0"/>
+</g>
+</symbol>
+<symbol id="as">
+<title>
+Restaurant</title>
+<g style="stroke:none">
+<path d="M30 30v33a3 3 0 0 1-6 0V30a4 4 0 0 1-4-4V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v18a4 4 0 0 1-4 4M50 63a3 3 0 0 1-6 0V43h-3V11.5a4.5 4.5 0 0 1 9 0z"/>
+</g>
+</symbol>
+<symbol id="at">
+<title>
+Restaurant</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M30 30v33a3 3 0 0 1-6 0V30a4 4 0 0 1-4-4V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v14h2V8a1 1 0 0 1 2 0v18a4 4 0 0 1-4 4M50 63a3 3 0 0 1-6 0V43h-3V11.5a4.5 4.5 0 0 1 9 0z"/>
+</g>
+</symbol>
+<symbol id="au">
+<title>
+Coffeeshop</title>
+<g style="stroke:none;fill-rule:evenodd">
+<path d="M20 45a5 5 0 0 0 5 5h22a5 5 0 0 0 5-5v-1h1a10 10 0 0 0 0-20H20zm32-17v12h1a6 6 0 0 0 0-12zM8 52a6 6 0 0 0 6 6h44a6 6 0 0 0 6-6z"/>
+</g>
+</symbol>
+<symbol id="av">
+<title>
+Coffeeshop</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none;fill-rule:evenodd">
+<path d="M20 45a5 5 0 0 0 5 5h22a5 5 0 0 0 5-5v-1h1a10 10 0 0 0 0-20H20zm32-17v12h1a6 6 0 0 0 0-12zM8 52a6 6 0 0 0 6 6h44a6 6 0 0 0 6-6z"/>
+</g>
+</symbol>
+<symbol id="aw">
+<title>
+Bar</title>
+<path d="M59 14 39 38v16h11a3 3 0 0 1 0 6H22a3 3 0 0 1 0-6h11V38L13 14zM36 27.5a3.5 3.5 0 0 0 7 0 3.5 3.5 0 0 0-7 0" style="stroke:none"/>
+</symbol>
+<symbol id="ax">
+<title>
+Bar</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M59 14 39 38v16h11a3 3 0 0 1 0 6H22a3 3 0 0 1 0-6h11V38L13 14zM36 27.5a3.5 3.5 0 0 0 7 0 3.5 3.5 0 0 0-7 0" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="ay">
+<title>
+Shops</title>
+<g style="stroke:none">
+<path d="M19.5 11v5c0 1.1 1 1.5 2 1l13.9-6.4c.4-.2.9 0 1.1.4l1.1 2.3c.2.4 0 .9-.4 1.1L18 23.1c-3.5 1.6-7-.6-7-3.6V11zM27.5 22 14 28c-2.2 1-3 2.4-3 4.5v21a5.5 5.5 0 0 0 5.5 5.5H35v-3.5a2 2 0 0 1 0-4V26h-7.5zm.5 8h3v18H20l8-3.5zM16.5 52h13a2 2 0 0 0 0 3h-13a1.5 1.5 0 0 1 0-3M49 10.5l-4 1.3 1.9 6.2-4.3-3.4L40 18l5 4h-5v37h22V22h-5l5-4-2.6-3.4-4.3 3.4 1.9-6.2-4-1.3-2 6.5zM44 26h5v6h-5zm9 0h5v6h-5zm-9 10h5v19h-5zm9 0h5v19h-5z"/>
+</g>
+</symbol>
+<symbol id="az">
+<title>
+Shops</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M19.5 11v5c0 1.1 1 1.5 2 1l13.9-6.4c.4-.2.9 0 1.1.4l1.1 2.3c.2.4 0 .9-.4 1.1L18 23.1c-3.5 1.6-7-.6-7-3.6V11zM27.5 22 14 28c-2.2 1-3 2.4-3 4.5v21a5.5 5.5 0 0 0 5.5 5.5H35v-3.5a2 2 0 0 1 0-4V26h-7.5zm.5 8h3v18H20l8-3.5zM16.5 52h13a2 2 0 0 0 0 3h-13a1.5 1.5 0 0 1 0-3M49 10.5l-4 1.3 1.9 6.2-4.3-3.4L40 18l5 4h-5v37h22V22h-5l5-4-2.6-3.4-4.3 3.4 1.9-6.2-4-1.3-2 6.5zM44 26h5v6h-5zm9 0h5v6h-5zm-9 10h5v19h-5zm9 0h5v19h-5z"/>
+</g>
+</symbol>
+<symbol id="aA">
+<title>
+Barber Shop - Beauty Salon</title>
+<g style="stroke:none">
+<path d="M31 39v16.5a6.5 6.5 0 1 0 3-6.5V33L31 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 1 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 1 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M38 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H38c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+</g>
+</symbol>
+<symbol id="aB">
+<title>
+Barber Shop - Beauty Salon</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M31 39v16.5a6.5 6.5 0 1 0 3-6.5V33L31 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 1 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 1 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M38 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H38c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+</g>
+</symbol>
+<symbol id="aC">
+<title>
+Barber Shop</title>
+<g style="stroke:none">
+<path d="M23 39v16.5a6.5 6.5 0 1 0 3-6.5V33L23 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M30 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H30c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+<circle cx="58" cy="10" r="3"/>
+<path d="M51 17.5V27a1.25 1.25 0 0 0 2.5 0v-8.5h.5V42a1.75 1.75 0 0 0 3.5 0V28.5h1V42a1.75 1.75 0 0 0 3.5 0V18.5h.5V27a1.25 1.25 0 0 0 2.5 0v-9.5a4 4 0 0 0-4-4h-6a4 4 0 0 0-4 4"/>
+</g>
+</symbol>
+<symbol id="aD">
+<title>
+Barber Shop</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M23 39v16.5a6.5 6.5 0 1 0 3-6.5V33L23 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M30 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H30c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+<circle cx="58" cy="10" r="3"/>
+<path d="M51 17.5V27a1.25 1.25 0 0 0 2.5 0v-8.5h.5V42a1.75 1.75 0 0 0 3.5 0V28.5h1V42a1.75 1.75 0 0 0 3.5 0V18.5h.5V27a1.25 1.25 0 0 0 2.5 0v-9.5a4 4 0 0 0-4-4h-6a4 4 0 0 0-4 4"/>
+</g>
+</symbol>
+<symbol id="aE">
+<title>
+Beauty Salon</title>
+<g style="stroke:none">
+<path d="M23 39v16.5a6.5 6.5 0 1 0 3-6.5V33L23 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M30 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H30c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+<circle cx="58" cy="10" r="3"/>
+<path d="M57.5 42.25a1.5 1.5 0 0 1-3 0v-10.2L51 32l4-14h-.75L52 25.75c-.5 1.75-2.75 1-2.25-.75l2.55-8.75c.2-1 1.5-2.75 3.7-2.75h4c2.25 0 3.5 1.75 3.825 2.75L66.25 25c.5 1.75-1.75 2.5-2.25.75l-2.25-8H61L65 32h-3.5v10.25a1.5 1.5 0 0 1-3 0V32h-1z"/>
+</g>
+</symbol>
+<symbol id="aF">
+<title>
+Beauty Salon</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M23 39v16.5a6.5 6.5 0 1 0 3-6.5V33L23 7a1.01 1.01 0 0 0-2 0l-3 26v16a6.5 6.5 0 1 0 3 6V39zm6 21.5c-.3 2 .4 5.5 1.8 6.8 1.5 1.3 3.2-.4 2.5-1.8-.8-1.4-1.8-2.2-1-5.5zm-11-6a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0m15 0a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0"/>
+<path d="M30 13c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v24a3 3 0 0 0 6 0V10a4 4 0 0 0-4-4H30c-2 0-2 2.5 0 2.5h8v1h-8c-2 0-2 2.5 0 2.5h8v1z"/>
+<circle cx="58" cy="10" r="3"/>
+<path d="M57.5 42.25a1.5 1.5 0 0 1-3 0v-10.2L51 32l4-14h-.75L52 25.75c-.5 1.75-2.75 1-2.25-.75l2.55-8.75c.2-1 1.5-2.75 3.7-2.75h4c2.25 0 3.5 1.75 3.825 2.75L66.25 25c.5 1.75-1.75 2.5-2.25.75l-2.25-8H61L65 32h-3.5v10.25a1.5 1.5 0 0 1-3 0V32h-1z"/>
+</g>
+</symbol>
+<symbol id="aG">
+<title>
+Ticket Purchase</title>
+<g style="stroke:none">
+<circle cx="21" cy="15" r="4.75"/>
+<path d="m12.75 36 2.5-9h1l-2.5 9h14.5l-2.5-9h1l1.5 4.5c.7 2 2.25 2 3.5.5l5-6a1.863 1.863 0 0 0-2.85-2.4l-3 3.65-.65-2.25C29.5 22.5 27 20.5 24 20.5h-6c-3 0-5.5 2-6.25 4.5l-3 11z"/>
+<circle cx="54" cy="15" r="4.75"/>
+<path d="M60 37h3V24a3.5 3.5 0 0 0-3.5-3.5h-11A4.5 4.5 0 0 0 45 22l-9 11a2.15 2.15 0 0 0 3.25 2.75L48 25.5v38a2.75 2.75 0 0 0 5.5 0V42h1v21.5a2.75 2.75 0 0 0 5.5 0zM35 14.5h4V24h-4z"/>
+<path d="M6 37h60v6H6z"/>
+</g>
+</symbol>
+<symbol id="aH">
+<title>
+Ticket Purchase</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="21" cy="15" r="4.75"/>
+<path d="m12.75 36 2.5-9h1l-2.5 9h14.5l-2.5-9h1l1.5 4.5c.7 2 2.25 2 3.5.5l5-6a1.863 1.863 0 0 0-2.85-2.4l-3 3.65-.65-2.25C29.5 22.5 27 20.5 24 20.5h-6c-3 0-5.5 2-6.25 4.5l-3 11z"/>
+<circle cx="54" cy="15" r="4.75"/>
+<path d="M60 37h3V24a3.5 3.5 0 0 0-3.5-3.5h-11A4.5 4.5 0 0 0 45 22l-9 11a2.15 2.15 0 0 0 3.25 2.75L48 25.5v38a2.75 2.75 0 0 0 5.5 0V42h1v21.5a2.75 2.75 0 0 0 5.5 0zM35 14.5h4V24h-4z"/>
+<path d="M6 37h60v6H6z"/>
+</g>
+</symbol>
+<symbol id="aI">
+<title>
+Baggage Check In</title>
+<path d="M31 14a3 3 0 0 0-3 3v5h-6v36h29V22h-7v-5a3 3 0 0 0-3-3zm0 3h10v5H31zm-16 5a5 5 0 0 0-5 5v26a5 5 0 0 0 5 5h4V22zm39 0v36h3a5 5 0 0 0 5-5V27a5 5 0 0 0-5-5z" style="stroke:none"/>
+</symbol>
+<symbol id="aJ">
+<title>
+Baggage Check In</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M31 14a3 3 0 0 0-3 3v5h-6v36h29V22h-7v-5a3 3 0 0 0-3-3zm0 3h10v5H31zm-16 5a5 5 0 0 0-5 5v26a5 5 0 0 0 5 5h4V22zm39 0v36h3a5 5 0 0 0 5-5V27a5 5 0 0 0-5-5z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aK">
+<title>
+Baggage Claim</title>
+<path d="M31 14a3 3 0 0 0-3 3v5h-6v36h29V22h-7v-5a3 3 0 0 0-3-3zm0 3h10v5H31zm-16 5a5 5 0 0 0-5 5v26a5 5 0 0 0 5 5h4V22zm39 0v36h3a5 5 0 0 0 5-5V27a5 5 0 0 0-5-5z" style="stroke:none"/>
+</symbol>
+<symbol id="aL">
+<title>
+Baggage Claim</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M31 14a3 3 0 0 0-3 3v5h-6v36h29V22h-7v-5a3 3 0 0 0-3-3zm0 3h10v5H31zm-16 5a5 5 0 0 0-5 5v26a5 5 0 0 0 5 5h4V22zm39 0v36h3a5 5 0 0 0 5-5V27a5 5 0 0 0-5-5z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aM">
+<title>
+Customs</title>
+<g style="stroke:none">
+<path d="M11 53h4V30h-4a3 3 0 0 0-3 3v17a3 3 0 0 0 3 3m27 4v-4H15v4a3 3 0 0 0 3 3h17a3 3 0 0 0 3-3M43 19l-2.5 3h3A6.25 6.25 0 0 0 56 22v-3zm13-6v4.5H43L40 13zm-.75 17H41a5.2 5.3 0 0 0-4 1.8L25 47.5a2.93 2.93 0 0 0 4.6 3.6L41 36v13zM63 34v26H41v-7h16v-3H44l15-20a4 4 0 0 1 4 4"/>
+</g>
+</symbol>
+<symbol id="aN">
+<title>
+Customs</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M11 53h4V30h-4a3 3 0 0 0-3 3v17a3 3 0 0 0 3 3m27 4v-4H15v4a3 3 0 0 0 3 3h17a3 3 0 0 0 3-3M43 19l-2.5 3h3A6.25 6.25 0 0 0 56 22v-3zm13-6v4.5H43L40 13zm-.75 17H41a5.2 5.3 0 0 0-4 1.8L25 47.5a2.93 2.93 0 0 0 4.6 3.6L41 36v13zM63 34v26H41v-7h16v-3H44l15-20a4 4 0 0 1 4 4"/>
+</g>
+</symbol>
+<symbol id="aO">
+<title>
+Immigration</title>
+<g style="stroke:none">
+<path d="M14 15v13l6.25 4.75c.87.62 1.75-.13 1.75-1.25V28h1a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2zm2.5 1.25H23a.75.75 0 0 1 .75.75v9a.75.75 0 0 1-.75.75h-1V21.5c0-.6 0-1.4-.5-1.75Z"/>
+<path d="m37 19-2.5 3h3A6.25 6.25 0 0 0 50 22v-3zm13-6v4.5H37L34 13Zm-.75 17H35a5.2 5.3 0 0 0-4 1.8l-5.25 6.95L18.5 33a2.82 2.82 0 0 0-3.5 4.4l9.5 7.6a3 3 0 0 0 4-.5L35 36v13zM57 34v26H35v-7h16v-3H38l15-20a4 4 0 0 1 4 4"/>
+</g>
+</symbol>
+<symbol id="aP">
+<title>
+Immigration</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<path d="M14 15v13l6.25 4.75c.87.62 1.75-.13 1.75-1.25V28h1a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2zm2.5 1.25H23a.75.75 0 0 1 .75.75v9a.75.75 0 0 1-.75.75h-1V21.5c0-.6 0-1.4-.5-1.75Z"/>
+<path d="m37 19-2.5 3h3A6.25 6.25 0 0 0 50 22v-3zm13-6v4.5H37L34 13Zm-.75 17H35a5.2 5.3 0 0 0-4 1.8l-5.25 6.95L18.5 33a2.82 2.82 0 0 0-3.5 4.4l9.5 7.6a3 3 0 0 0 4-.5L35 36v13zM57 34v26H35v-7h16v-3H38l15-20a4 4 0 0 1 4 4"/>
+</g>
+</symbol>
+<symbol id="aQ">
+<title>
+Departing Flights</title>
+<path d="M56 11 42 25l-30-8-5 5 25 13-10 10-8-1-4 4 9 5 5 9 4-4-1-8 10-10 13 25 5-5-8-30 14-14a3.54 3.54 0 0 0-5-5" style="stroke:none"/>
+</symbol>
+<symbol id="aR">
+<title>
+Departing Flights</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M56 11 42 25l-30-8-5 5 25 13-10 10-8-1-4 4 9 5 5 9 4-4-1-8 10-10 13 25 5-5-8-30 14-14a3.54 3.54 0 0 0-5-5" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="aS">
+<title>
+Arriving Flights</title>
+<g style="stroke:none">
+<circle cx="34" cy="11" r="5"/>
+<path d="m13 9 14.5 14.5v41a3 3 0 0 0 6 0V42h1v22.5a3 3 0 0 0 6 0V59H52V41h-3v-2.5a1.5 1.5 0 0 0-1.5-1.5H46V24a7 7 0 0 0-7-7H28L16.5 5.5A2.48 2.48 0 0 0 13 9m27.5 16.5h1V41h-1zM43 39h4v2h-4zm10 20h2a3 3 0 0 0 3-3V44a3 3 0 0 0-3-3h-2z"/>
+</g>
+</symbol>
+<symbol id="aT">
+<title>
+Arriving Flights</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="34" cy="11" r="5"/>
+<path d="m13 9 14.5 14.5v41a3 3 0 0 0 6 0V42h1v22.5a3 3 0 0 0 6 0V59H52V41h-3v-2.5a1.5 1.5 0 0 0-1.5-1.5H46V24a7 7 0 0 0-7-7H28L16.5 5.5A2.48 2.48 0 0 0 13 9m27.5 16.5h1V41h-1zM43 39h4v2h-4zm10 20h2a3 3 0 0 0 3-3V44a3 3 0 0 0-3-3h-2z"/>
+</g>
+</symbol>
+<symbol id="aU">
+<title>
+Smoking</title>
+<path d="M8 46h48v8H8zM57.75 46h2.5v8h-2.5zM61.75 46h2.5v8h-2.5z" style="stroke:none"/>
+<path d="M59 44v-5a3.5 3.5 0 0 0-3.5-3.5h-9A5 5 0 0 1 42 28a6.5 6.5 0 0 1 0-13" style="fill:none;stroke-width:2.5"/>
+<path d="M63 44v-6a9 9 0 0 0-9-9h-5a6.5 6.5 0 0 0-5-11" style="fill:none;stroke-width:2.5"/>
+</symbol>
+<symbol id="aV">
+<title>
+Smoking</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M8 46h48v8H8zM57.75 46h2.5v8h-2.5zM61.75 46h2.5v8h-2.5z" style="fill:#fff;stroke:none"/>
+<path d="M59 44v-5a3.5 3.5 0 0 0-3.5-3.5h-9A5 5 0 0 1 42 28a6.5 6.5 0 0 1 0-13" style="fill:none;stroke:#fff;stroke-width:2.5"/>
+<path d="M63 44v-6a9 9 0 0 0-9-9h-5a6.5 6.5 0 0 0-5-11" style="fill:none;stroke:#fff;stroke-width:2.5"/>
+</symbol>
+<symbol id="aW">
+<title>
+No Smoking</title>
+<path d="M18 37h30v5H18zM49 37h1.5v5H49zM51.5 37H53v5h-1.5z" style="stroke:none"/>
+<path d="M49.75 35.75v-3.125a2.19 2.19 0 0 0-2.187-2.187h-5.626a3.125 3.125 0 0 1-2.687-4.688 4.063 4.063 0 1 1 0-8.125" style="fill:none;stroke-width:1.5"/>
+<path d="M52.25 35.75V32a5.625 5.625 0 0 0-5.5-5.625h-3.125A4.063 4.063 0 0 0 40.5 19.5" style="fill:none;stroke-width:1.5"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke-width:6"/>
+</symbol>
+<symbol id="aX">
+<title>
+No Smoking</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M18 37h30v5H18zM49 37h1.5v5H49zM51.5 37H53v5h-1.5z" style="fill:#fff;stroke:none"/>
+<path d="M49.75 35.75v-3.125a2.19 2.19 0 0 0-2.187-2.187h-5.626a3.125 3.125 0 0 1-2.687-4.688 4.063 4.063 0 1 1 0-8.125" style="fill:none;stroke:#fff;stroke-width:1.5"/>
+<path d="M52.25 35.75V32a5.625 5.625 0 0 0-5.5-5.625h-3.125A4.063 4.063 0 0 0 40.5 19.5" style="fill:none;stroke:#fff;stroke-width:1.5"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke:#fff;stroke-width:6"/>
+</symbol>
+<symbol id="aY">
+<title>
+Parking</title>
+<path d="M25 60V15h14a12.5 12.5 0 0 1 0 25h-9" style="fill:none;stroke-width:10"/>
+</symbol>
+<symbol id="aZ">
+<title>
+Parking</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M25 60V15h14a12.5 12.5 0 0 1 0 25h-9" style="fill:none;stroke:#fff;stroke-width:10"/>
+</symbol>
+<symbol id="ba">
+<title>
+No Parking</title>
+<path d="M30 52V23h9a8 8 0 0 1 0 16h-6" style="fill:none;stroke-width:6"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke-width:6"/>
+</symbol>
+<symbol id="bb">
+<title>
+No Parking</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M30 52V23h9a8 8 0 0 1 0 16h-6" style="fill:none;stroke:#fff;stroke-width:6"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke:#fff;stroke-width:6"/>
+</symbol>
+<symbol id="bc">
+<title>
+No Dogs</title>
+<path d="M28 42v7a3 3 0 0 1-6 0V34h-2a2.5 2.5 0 0 1 0-5h19l9-9v5l6 6c1 1 1 3-1 3h-7v15a3 3 0 0 1-6 0v-7z" style="stroke:none"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke-width:6"/>
+</symbol>
+<symbol id="bd">
+<title>
+No Dogs</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M28 42v7a3 3 0 0 1-6 0V34h-2a2.5 2.5 0 0 1 0-5h19l9-9v5l6 6c1 1 1 3-1 3h-7v15a3 3 0 0 1-6 0v-7z" style="fill:#fff;stroke:none"/>
+<path d="m18 18 36 36" style="fill:none;stroke-width:6.25"/>
+<path d="m18 18 36 36" style="fill:none;stroke:#fff;stroke-width:6.25"/>
+<circle cx="36" cy="36" r="24" style="fill:none;stroke:#fff;stroke-width:6"/>
+</symbol>
+<symbol id="be">
+<title>
+No Entry</title>
+<circle cx="36" cy="36" r="27" style="stroke:none"/>
+<path d="M14 32h44v8H14z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bf">
+<title>
+No Entry</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<circle cx="36" cy="36" r="27" style="fill:#fff;stroke:none"/>
+<path d="M14 32h44v8H14z" style="stroke:none"/>
+</symbol>
+<symbol id="bg">
+<title>
+Exit</title>
+<path d="M32 9.3a27 27 0 0 0 0 53.4zm8 0a27 27 0 0 1 0 53.4z" style="stroke:none"/>
+</symbol>
+<symbol id="bh">
+<title>
+Exit</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M32 9.3a27 27 0 0 0 0 53.4zm8 0a27 27 0 0 1 0 53.4z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bi">
+<title>
+Fire Extinguisher</title>
+<path d="M32 17a11.5 11.5 0 0 0-8 11v35a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V28a11.5 11.5 0 0 0-8-11v-2h8v2l18 2V7L45 9v2h-8V9h-1.5a4.6 4.6 0 1 0-8 3.5 15 15 0 0 0-7 7A1.904 1.904 0 1 0 24 21a12 12 0 0 1 8-6zm-3-7.5a2 2 0 0 0 4 0 2 2 0 0 0-4 0" style="stroke:none;fill-rule:evenodd"/>
+</symbol>
+<symbol id="bj">
+<title>
+Fire Extinguisher</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M32 17a11.5 11.5 0 0 0-8 11v35a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V28a11.5 11.5 0 0 0-8-11v-2h8v2l18 2V7L45 9v2h-8V9h-1.5a4.6 4.6 0 1 0-8 3.5 15 15 0 0 0-7 7A1.904 1.904 0 1 0 24 21a12 12 0 0 1 8-6zm-3-7.5a2 2 0 0 0 4 0 2 2 0 0 0-4 0" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+</symbol>
+<symbol id="bq">
+<title>
+Right Arrow</title>
+<path d="M63 36 41 58H26l16-16H10V30h32L26 14h15z" style="stroke:none"/>
+</symbol>
+<symbol id="br">
+<title>
+Right Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M63 36 41 58H26l16-16H10V30h32L26 14h15z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bs">
+<title>
+Forward and Right Arrow</title>
+<path d="M56 16v32L45 59V35L22 58l-8-8 23-23H13l11-11z" style="stroke:none"/>
+</symbol>
+<symbol id="bt">
+<title>
+Forward and Right Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M56 16v32L45 59V35L22 58l-8-8 23-23H13l11-11z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bu">
+<title>
+Up Arrow</title>
+<path d="m36 9 22 22v15L42 30v32H30V30L14 46V31z" style="stroke:none"/>
+</symbol>
+<symbol id="bv">
+<title>
+Up Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="m36 9 22 22v15L42 30v32H30V30L14 46V31z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bw">
+<title>
+Forward and Left Arrow</title>
+<path d="M16 16h32l11 11H35l23 23-8 8-23-23v24L16 48z" style="stroke:none"/>
+</symbol>
+<symbol id="bx">
+<title>
+Forward and Left Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M16 16h32l11 11H35l23 23-8 8-23-23v24L16 48z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="by">
+<title>
+Left Arrow</title>
+<path d="m9 36 22-22h15L30 30h32v12H30l16 16H31z" style="stroke:none"/>
+</symbol>
+<symbol id="bz">
+<title>
+Left Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="m9 36 22-22h15L30 30h32v12H30l16 16H31z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bA">
+<title>
+Left and Down Arrow</title>
+<path d="M16.125 55.875v-32l11-11v24l23-23 8 8-23 23h24l-11 11z" style="stroke:none"/>
+</symbol>
+<symbol id="bB">
+<title>
+Left and Down Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M16.125 55.875v-32l11-11v24l23-23 8 8-23 23h24l-11 11z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bC">
+<title>
+Down Arrow</title>
+<path d="M36 63 14 41V26l16 16V10h12v32l16-16v15z" style="stroke:none"/>
+</symbol>
+<symbol id="bD">
+<title>
+Down Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M36 63 14 41V26l16 16V10h12v32l16-16v15z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bE">
+<title>
+Right and Down Arrow</title>
+<path d="M56 56H24L13 45h24L14 22l8-8 23 23V13l11 11z" style="stroke:none"/>
+</symbol>
+<symbol id="bF">
+<title>
+Right and Down Arrow</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<path d="M56 56H24L13 45h24L14 22l8-8 23 23V13l11 11z" style="fill:#fff;stroke:none"/>
+</symbol>
+<symbol id="bk">
+<title>
+NPS Wheelchair Accessible - 1996</title>
+<g style="stroke:none">
+<circle cx="30" cy="11.75" r="5"/>
+<path d="M51 36.5c-.52-.89-1.5-1.5-2.5-1.5H36l-.2-4H45a2.25 2.25 0 0 0 0-4.5h-9.5l-.2-4.3c-.18-2.6-2.2-4.75-4.9-4.6s-5 2.5-4.8 5.1l.85 15.3c.2 2.6 2.45 4.5 5.05 4.5H48L54.5 54a2.916 2.916 0 0 0 5-3z"/>
+<path d="M23.2 29a19 19 0 1 0 27.7 23.5L48.2 48a15 15 0 1 1-24.7-14.2z"/>
+</g>
+</symbol>
+<symbol id="bl">
+<title>
+NPS Wheelchair Accessible - 1996</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="30" cy="11.75" r="5"/>
+<path d="M51 36.5c-.52-.89-1.5-1.5-2.5-1.5H36l-.2-4H45a2.25 2.25 0 0 0 0-4.5h-9.5l-.2-4.3c-.18-2.6-2.2-4.75-4.9-4.6s-5 2.5-4.8 5.1l.85 15.3c.2 2.6 2.45 4.5 5.05 4.5H48L54.5 54a2.916 2.916 0 0 0 5-3z"/>
+<path d="M23.2 29a19 19 0 1 0 27.7 23.5L48.2 48a15 15 0 1 1-24.7-14.2z"/>
+</g>
+</symbol>
+<symbol id="bm">
+<title>
+NPS Wheelchair Accessible</title>
+<g style="stroke:none">
+<circle cx="30" cy="11.75" r="5"/>
+<path d="M63.5 55.5a2.25 2.25 0 0 0 0-4.5h-4L51 36.5c-.52-.89-1.5-1.5-2.5-1.5H36l-.2-4H45a2.25 2.25 0 0 0 0-4.5h-9.5l-.2-4.3c-.18-2.6-2.2-4.75-4.9-4.6s-5 2.5-4.8 5.1l.85 15.3c.2 2.6 2.45 4.5 5.05 4.5H48L54.5 54c.25.5 1.3 1.5 2.5 1.5z"/>
+<path d="M23.2 29a19 19 0 1 0 27.7 23.5L48.2 48a15 15 0 1 1-24.7-14.2z"/>
+</g>
+</symbol>
+<symbol id="bn">
+<title>
+NPS Wheelchair Accessible</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="30" cy="11.75" r="5"/>
+<path d="M63.5 55.5a2.25 2.25 0 0 0 0-4.5h-4L51 36.5c-.52-.89-1.5-1.5-2.5-1.5H36l-.2-4H45a2.25 2.25 0 0 0 0-4.5h-9.5l-.2-4.3c-.18-2.6-2.2-4.75-4.9-4.6s-5 2.5-4.8 5.1l.85 15.3c.2 2.6 2.45 4.5 5.05 4.5H48L54.5 54c.25.5 1.3 1.5 2.5 1.5z"/>
+<path d="M23.2 29a19 19 0 1 0 27.7 23.5L48.2 48a15 15 0 1 1-24.7-14.2z"/>
+</g>
+</symbol>
+<symbol id="bo">
+<title>
+New Wheelchair Accessible</title>
+<g style="stroke:none">
+<circle cx="37" cy="12.5" r="5"/>
+<path d="m15.9 31.3 5.3-7.7c.3-.4.9-.8 1.3-1l9.5-4.1c4-1.8 7 2 6.5 4.7l-2 9.8 9.5 2c1.3.3 2.1.9 2.8 2l7.3 12.3 2.8-1.9c2.2-1.5 4.5 1.7 2.2 3.3l-5.6 3.8c-1 .7-2.5.4-3-.5l-7-12-15-3c-2-.4-3.8-3-3.5-5l2-10-4.5 2-5.4 7.6c-1.5 2.2-4.8 0-3.2-2.4z"/>
+<path d="m25 36 1-5.4a16 16 0 1 0 22 20l-3-5.2A12 12 0 1 1 25 36"/>
+</g>
+</symbol>
+<symbol id="bp">
+<title>
+New Wheelchair Accessible</title>
+<rect width="71" height="71" x=".5" y=".5" ry="6" style="stroke:#fff"/>
+<g style="fill:#fff;stroke:none">
+<circle cx="37" cy="12.5" r="5"/>
+<path d="m15.9 31.3 5.3-7.7c.3-.4.9-.8 1.3-1l9.5-4.1c4-1.8 7 2 6.5 4.7l-2 9.8 9.5 2c1.3.3 2.1.9 2.8 2l7.3 12.3 2.8-1.9c2.2-1.5 4.5 1.7 2.2 3.3l-5.6 3.8c-1 .7-2.5.4-3-.5l-7-12-15-3c-2-.4-3.8-3-3.5-5l2-10-4.5 2-5.4 7.6c-1.5 2.2-4.8 0-3.2-2.4z"/>
+<path d="m25 36 1-5.4a16 16 0 1 0 22 20l-3-5.2A12 12 0 1 1 25 36"/>
+</g>
+</symbol>
+</defs>
+<use xlink:href="#g"/>
+<use xlink:href="#h" y="72"/>
+<use xlink:href="#i" x="72"/>
+<use xlink:href="#j" x="72" y="72"/>
+<use xlink:href="#k" x="144"/>
+<use xlink:href="#l" x="144" y="72"/>
+<use xlink:href="#m" x="216"/>
+<use xlink:href="#n" x="216" y="72"/>
+<use xlink:href="#o" x="288"/>
+<use xlink:href="#p" x="288" y="72"/>
+<use xlink:href="#q" x="360"/>
+<use xlink:href="#r" x="360" y="72"/>
+<use xlink:href="#s" x="432"/>
+<use xlink:href="#t" x="432" y="72"/>
+<use xlink:href="#u" x="504"/>
+<use xlink:href="#v" x="504" y="72"/>
+<use xlink:href="#w" x="576"/>
+<use xlink:href="#x" x="576" y="72"/>
+<use xlink:href="#y" x="648"/>
+<use xlink:href="#z" x="648" y="72"/>
+<use xlink:href="#A" y="144"/>
+<use xlink:href="#B" y="216"/>
+<use xlink:href="#C" x="72" y="144"/>
+<use xlink:href="#D" x="72" y="216"/>
+<use xlink:href="#E" x="144" y="144"/>
+<use xlink:href="#F" x="144" y="216"/>
+<use xlink:href="#G" x="216" y="144"/>
+<use xlink:href="#H" x="216" y="216"/>
+<use xlink:href="#I" x="288" y="144"/>
+<use xlink:href="#J" x="288" y="216"/>
+<use xlink:href="#K" x="360" y="144"/>
+<use xlink:href="#L" x="360" y="216"/>
+<use xlink:href="#M" x="432" y="144"/>
+<use xlink:href="#N" x="432" y="216"/>
+<use xlink:href="#O" x="504" y="144"/>
+<use xlink:href="#P" x="504" y="216"/>
+<use xlink:href="#Q" x="576" y="144"/>
+<use xlink:href="#R" x="576" y="216"/>
+<use xlink:href="#S" x="648" y="144"/>
+<use xlink:href="#T" x="648" y="216"/>
+<use xlink:href="#U" y="288"/>
+<use xlink:href="#V" y="360"/>
+<use xlink:href="#W" x="72" y="288"/>
+<use xlink:href="#X" x="72" y="360"/>
+<use xlink:href="#Y" x="144" y="288"/>
+<use xlink:href="#Z" x="144" y="360"/>
+<use xlink:href="#aa" x="216" y="288"/>
+<use xlink:href="#ab" x="216" y="360"/>
+<use xlink:href="#ac" x="288" y="288"/>
+<use xlink:href="#ad" x="288" y="360"/>
+<use xlink:href="#ae" x="360" y="288"/>
+<use xlink:href="#af" x="360" y="360"/>
+<use xlink:href="#ag" x="432" y="288"/>
+<use xlink:href="#ah" x="432" y="360"/>
+<use xlink:href="#ai" x="504" y="288"/>
+<use xlink:href="#aj" x="504" y="360"/>
+<use xlink:href="#ak" x="576" y="288"/>
+<use xlink:href="#al" x="576" y="360"/>
+<use xlink:href="#am" x="648" y="288"/>
+<use xlink:href="#an" x="648" y="360"/>
+<use xlink:href="#ao" y="432"/>
+<use xlink:href="#ap" y="504"/>
+<use xlink:href="#aq" x="72" y="432"/>
+<use xlink:href="#ar" x="72" y="504"/>
+<use xlink:href="#as" x="144" y="432"/>
+<use xlink:href="#at" x="144" y="504"/>
+<use xlink:href="#au" x="216" y="432"/>
+<use xlink:href="#av" x="216" y="504"/>
+<use xlink:href="#aw" x="288" y="432"/>
+<use xlink:href="#ax" x="288" y="504"/>
+<use xlink:href="#ay" x="360" y="432"/>
+<use xlink:href="#az" x="360" y="504"/>
+<use xlink:href="#aA" x="432" y="432"/>
+<use xlink:href="#aB" x="432" y="504"/>
+<use xlink:href="#aC" x="504" y="432"/>
+<use xlink:href="#aD" x="504" y="504"/>
+<use xlink:href="#aE" x="576" y="432"/>
+<use xlink:href="#aF" x="576" y="504"/>
+<use xlink:href="#aG" x="648" y="432"/>
+<use xlink:href="#aH" x="648" y="504"/>
+<use xlink:href="#aI" y="576"/>
+<use xlink:href="#aJ" y="648"/>
+<use xlink:href="#aK" x="72" y="576"/>
+<use xlink:href="#aL" x="72" y="648"/>
+<use xlink:href="#aM" x="144" y="576"/>
+<use xlink:href="#aN" x="144" y="648"/>
+<use xlink:href="#aO" x="216" y="576"/>
+<use xlink:href="#aP" x="216" y="648"/>
+<use xlink:href="#aQ" x="288" y="576"/>
+<use xlink:href="#aR" x="288" y="648"/>
+<use xlink:href="#aS" x="360" y="576"/>
+<use xlink:href="#aT" x="360" y="648"/>
+<use xlink:href="#aU" x="432" y="576"/>
+<use xlink:href="#aV" x="432" y="648"/>
+<use xlink:href="#aW" x="504" y="576"/>
+<use xlink:href="#aX" x="504" y="648"/>
+<use xlink:href="#aY" x="576" y="576"/>
+<use xlink:href="#aZ" x="576" y="648"/>
+<use xlink:href="#ba" x="648" y="576"/>
+<use xlink:href="#bb" x="648" y="648"/>
+<use xlink:href="#bc" y="720"/>
+<use xlink:href="#bd" y="792"/>
+<use xlink:href="#be" x="72" y="720"/>
+<use xlink:href="#bf" x="72" y="792"/>
+<use xlink:href="#bg" x="144" y="720"/>
+<use xlink:href="#bh" x="144" y="792"/>
+<use xlink:href="#bi" x="216" y="720"/>
+<use xlink:href="#bj" x="216" y="792"/>
+<use xlink:href="#LitterDisposal" x="288" y="720"/>
+<use xlink:href="#LitterDisposal_Inv" x="288" y="792"/>
+<use xlink:href="#bk" x="432" y="720"/>
+<use xlink:href="#bl" x="432" y="792"/>
+<use xlink:href="#bm" x="504" y="720"/>
+<use xlink:href="#bn" x="504" y="792"/>
+<use xlink:href="#bo" x="576" y="720"/>
+<use xlink:href="#bp" x="576" y="792"/>
+<use xlink:href="#bq" y="864"/>
+<use xlink:href="#br" y="936"/>
+<use xlink:href="#bs" x="72" y="864"/>
+<use xlink:href="#bt" x="72" y="936"/>
+<use xlink:href="#bu" x="144" y="864"/>
+<use xlink:href="#bv" x="144" y="936"/>
+<use xlink:href="#bw" x="216" y="864"/>
+<use xlink:href="#bx" x="216" y="936"/>
+<use xlink:href="#by" x="288" y="864"/>
+<use xlink:href="#bz" x="288" y="936"/>
+<use xlink:href="#bA" x="360" y="864"/>
+<use xlink:href="#bB" x="360" y="936"/>
+<use xlink:href="#bC" x="432" y="864"/>
+<use xlink:href="#bD" x="432" y="936"/>
+<use xlink:href="#bE" x="504" y="864"/>
+<use xlink:href="#bF" x="504" y="936"/>
+</svg>
+

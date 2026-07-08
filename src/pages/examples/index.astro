@@ -1,0 +1,19 @@
+---
+import { getCollection } from "astro:content";
+
+import ExampleLayout from "../../layouts/example.astro";
+
+const examples = await getCollection('examples')
+---
+<ExampleLayout title="Examples">
+  {examples && (
+  <ul>
+    {examples.map((example) => (
+      <li>
+        {example.id}
+      </li>
+    )
+    )}
+  </ul>
+  )}
+</ExampleLayout>

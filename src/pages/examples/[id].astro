@@ -1,0 +1,21 @@
+---
+import { getCollection, getEntry } from "astro:content";
+
+import ExampleLayout from "../../layouts/example.astro";
+
+export const getStaticPaths = async () => {
+  const entries = await getCollection("floormaps");
+  return entries.map((e) => ({
+    params: { id: e.id },
+    props: { title: e.data.title, mapId: e.data.mapId },
+  }))
+}
+
+const { id } = Astro.params;
+const { title, mapId } = Astro.props;
+---
+<ExampleLayout title={title}>
+  <div class='demo-app'>
+    <iframe class='demo-iframe' src={`/demos/${mapId}/index.html`}></iframe>
+  </div>
+</ExampleLayout>

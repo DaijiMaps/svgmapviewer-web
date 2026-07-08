@@ -1,0 +1,71 @@
+---
+const props = Astro.props
+
+const ty = `40vh`
+const tx = `0`
+
+const dur = `360s`
+const delay = `${360 / 20 * props.idx * -1}s`
+---
+<div class="icon-wheel">
+  <svg id="Telephone" class={`icon`} width={props.width} height={props.height} viewbox="0 0 72 72">
+    <use href=`#${props.symbol}`/>
+  </svg>
+</div>
+
+<style define:vars={{ dur, delay }}>
+.icon-wheel {
+  position: absolute;
+  left: calc((100vmax - 100vw) / -2);
+  top: calc((100vmax - 100vh) / -2);
+  width: 100vmax;
+  height: 100vmax;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  pointer-events: none;
+  animation: wheel-rotate var(--dur) linear infinite;
+  animation-delay: var(--delay);
+}
+@keyframes wheel-rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.icon {
+  position: absolute;
+  left: calc(50% - 2.5em);
+  top: calc(50% - 2.5em);
+  display: block;
+  transform-origin: 50% 50%;
+  animation: circle-move var(--dur) linear infinite;
+  animation-delay: var(--delay);
+}
+@keyframes circle-move {
+  0% {
+    transform: translate(0, 40vh) rotate(0deg) scale(1);
+    opacity: 1;
+  }
+  37.5% {
+    transform: translate(0, 40vh) rotate(-135deg) scale(0.375);
+    opacity: 0;
+  }
+  50% {
+    transform: translate(0, 40vh) rotate(-180deg) scale(0.5);
+    opacity: 0;
+  }
+  62.5% {
+    transform: translate(0, 40vh) rotate(-225deg) scale(0.375);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(0, 40vh) rotate(-360deg) scale(1);
+    opacity: 1;
+  }
+}
+</style>
