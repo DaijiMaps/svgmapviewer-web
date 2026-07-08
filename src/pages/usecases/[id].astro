@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntry } from "astro:content";
+import { getCollection } from "astro:content";
 
 import ExampleLayout from "../../layouts/example.astro";
 
@@ -14,7 +14,7 @@ export const getStaticPaths = async () => {
   }))
 }
 
-const { id } = Astro.params;
+//const { id } = Astro.params;
 const { title, examples } = Astro.props;
 
 const floormaps = examples === undefined ? [] : await getCollection("floormaps")

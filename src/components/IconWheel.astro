@@ -1,7 +1,7 @@
 ---
 import Telephone from "../components/Aiga-Telephone-Inv.astro";
 const NIDXS = 20
-const idxs = (new Array(NIDXS)).fill(0).map((x, idx) => idx)
+const idxs: number[] = (new Array(NIDXS)).fill(0).map((_, idx) => idx)
 const symbols = [
 'Telephone_Inv',
 'Stairs_Inv',
